@@ -47,10 +47,10 @@
         }
       ],
       "Facilities": [
-        "SYS- Express Delivery",
         "SYS- Chilled BWS Collect",
         "SYS-Book regardless Pack",
-        "SYS- BWS Collect"
+        "SYS- BWS Collect",
+        "SYS- Express Delivery"
       ],
       "Extra10": "55159",
       "Extra11": null,
@@ -187,8 +187,8 @@
         }
       ],
       "Facilities": [
-        "SYS- Chilled BWS Collect",
         "SYS- Express Delivery",
+        "SYS- Chilled BWS Collect",
         "SYS- BWS Collect"
       ],
       "Extra10": "56838",
@@ -257,11 +257,11 @@
         }
       ],
       "Facilities": [
-        "SYS- Express Delivery",
         "SYS- Chilled BWS Collect",
         "Drive Thru",
-        "SYS-Book regardless Pack",
-        "SYS- BWS Collect"
+        "SYS- BWS Collect",
+        "SYS- Express Delivery",
+        "SYS-Book regardless Pack"
       ],
       "Extra10": "7120773X",
       "Extra11": null,
@@ -398,8 +398,8 @@
         }
       ],
       "Facilities": [
-        "SYS- Express Delivery",
         "SYS- Chilled BWS Collect",
+        "SYS- Express Delivery",
         "SYS- BWS Collect"
       ],
       "Extra10": "71107789",
@@ -675,8 +675,8 @@
         }
       ],
       "Facilities": [
-        "SYS- Chilled BWS Collect",
-        "SYS- BWS Collect"
+        "SYS- BWS Collect",
+        "SYS- Chilled BWS Collect"
       ],
       "Extra10": "52379",
       "Extra11": null,
@@ -745,10 +745,10 @@
       ],
       "Facilities": [
         "SYS-Book regardless Pack",
-        "SYS- Chilled BWS Collect",
         "SYS- BWS Collect",
-        "In Shopping Centre",
-        "SYS- Express Delivery"
+        "SYS- Chilled BWS Collect",
+        "SYS- Express Delivery",
+        "In Shopping Centre"
       ],
       "Extra10": "67553",
       "Extra11": null,
@@ -816,8 +816,8 @@
         }
       ],
       "Facilities": [
-        "SYS- Chilled BWS Collect",
-        "SYS- BWS Collect"
+        "SYS- BWS Collect",
+        "SYS- Chilled BWS Collect"
       ],
       "Extra10": "73507",
       "Extra11": null,
@@ -885,10 +885,10 @@
         }
       ],
       "Facilities": [
-        "SYS- BWS Collect",
         "SYS- Chilled BWS Collect",
         "SYS- Express Delivery",
-        "SYS-Book regardless Pack"
+        "SYS-Book regardless Pack",
+        "SYS- BWS Collect"
       ],
       "Extra10": "71207078",
       "Extra11": null,
@@ -956,9 +956,9 @@
         }
       ],
       "Facilities": [
-        "SYS-Book regardless Pack",
         "SYS- BWS Collect",
-        "SYS- Chilled BWS Collect"
+        "SYS- Chilled BWS Collect",
+        "SYS-Book regardless Pack"
       ],
       "Extra10": "51917",
       "Extra11": null,
@@ -1026,10 +1026,10 @@
         }
       ],
       "Facilities": [
-        "SYS- Express Delivery",
+        "SYS-Book regardless Pack",
         "SYS- BWS Collect",
         "SYS- Chilled BWS Collect",
-        "SYS-Book regardless Pack"
+        "SYS- Express Delivery"
       ],
       "Extra10": "73019706",
       "Extra11": null,
@@ -1098,9 +1098,9 @@
       ],
       "Facilities": [
         "SYS- Chilled BWS Collect",
-        "SYS- BWS Collect",
+        "SYS-Book regardless Pack",
         "SYS- Express Delivery",
-        "SYS-Book regardless Pack"
+        "SYS- BWS Collect"
       ],
       "Extra10": "51922",
       "Extra11": null,
@@ -1168,9 +1168,9 @@
         }
       ],
       "Facilities": [
+        "SYS-Book regardless Pack",
         "SYS- BWS Collect",
         "SYS- Chilled BWS Collect",
-        "SYS-Book regardless Pack",
         "SYS- Express Delivery"
       ],
       "Extra10": "73020332",
@@ -1239,10 +1239,10 @@
         }
       ],
       "Facilities": [
-        "SYS- Express Delivery",
-        "SYS- Chilled BWS Collect",
+        "SYS-Book regardless Pack",
         "SYS- BWS Collect",
-        "SYS-Book regardless Pack"
+        "SYS- Express Delivery",
+        "SYS- Chilled BWS Collect"
       ],
       "Extra10": "73020691",
       "Extra11": null,
@@ -1310,10 +1310,10 @@
         }
       ],
       "Facilities": [
-        "SYS- BWS Collect",
         "SYS- Express Delivery",
-        "SYS- Chilled BWS Collect",
-        "SYS-Book regardless Pack"
+        "SYS- BWS Collect",
+        "SYS-Book regardless Pack",
+        "SYS- Chilled BWS Collect"
       ],
       "Extra10": "51916",
       "Extra11": null,
@@ -1383,8 +1383,8 @@
       "Facilities": [
         "SYS- Express Delivery",
         "SYS-Book regardless Pack",
-        "SYS- Chilled BWS Collect",
-        "SYS- BWS Collect"
+        "SYS- BWS Collect",
+        "SYS- Chilled BWS Collect"
       ],
       "Extra10": "76365",
       "Extra11": null,
@@ -1452,10 +1452,10 @@
         }
       ],
       "Facilities": [
-        "SYS-Book regardless Pack",
+        "SYS- Chilled BWS Collect",
         "SYS- Express Delivery",
         "SYS- BWS Collect",
-        "SYS- Chilled BWS Collect"
+        "SYS-Book regardless Pack"
       ],
       "Extra10": "51918",
       "Extra11": null,
@@ -1524,9 +1524,9 @@
       ],
       "Facilities": [
         "SYS- Express Delivery",
+        "SYS-Book regardless Pack",
         "SYS- Chilled BWS Collect",
-        "SYS- BWS Collect",
-        "SYS-Book regardless Pack"
+        "SYS- BWS Collect"
       ],
       "Extra10": "56377",
       "Extra11": null,
@@ -1594,10 +1594,10 @@
         }
       ],
       "Facilities": [
-        "SYS- Chilled BWS Collect",
-        "SYS- BWS Collect",
+        "SYS-Book regardless Pack",
         "SYS- Express Delivery",
-        "SYS-Book regardless Pack"
+        "SYS- BWS Collect",
+        "SYS- Chilled BWS Collect"
       ],
       "Extra10": "51919",
       "Extra11": null,
@@ -1665,9 +1665,9 @@
         }
       ],
       "Facilities": [
-        "SYS- BWS Collect",
         "SYS- Express Delivery",
         "SYS- Chilled BWS Collect",
+        "SYS- BWS Collect",
         "SYS-Book regardless Pack"
       ],
       "Extra10": "51921",
@@ -1737,9 +1737,9 @@
       ],
       "Facilities": [
         "SYS-Book regardless Pack",
+        "In Shopping Centre",
         "SYS- Chilled BWS Collect",
         "SYS- Express Delivery",
-        "In Shopping Centre",
         "SYS- BWS Collect"
       ],
       "Extra10": "64040",
@@ -1808,11 +1808,11 @@
         }
       ],
       "Facilities": [
-        "SYS- BWS Collect",
         "SYS- Express Delivery",
         "SYS-Book regardless Pack",
-        "SYS- Chilled BWS Collect",
-        "In Shopping Centre"
+        "SYS- BWS Collect",
+        "In Shopping Centre",
+        "SYS- Chilled BWS Collect"
       ],
       "Extra10": "52293",
       "Extra11": null,
@@ -1882,8 +1882,8 @@
       "Facilities": [
         "SYS- Chilled BWS Collect",
         "SYS- Express Delivery",
-        "SYS-Book regardless Pack",
-        "SYS- BWS Collect"
+        "SYS- BWS Collect",
+        "SYS-Book regardless Pack"
       ],
       "Extra10": "71209750",
       "Extra11": null,
@@ -2020,11 +2020,11 @@
         }
       ],
       "Facilities": [
-        "SYS-Book regardless Pack",
-        "SYS- Chilled BWS Collect",
-        "SYS- Express Delivery",
         "In Shopping Centre",
-        "SYS- BWS Collect"
+        "SYS- Chilled BWS Collect",
+        "SYS-Book regardless Pack",
+        "SYS- BWS Collect",
+        "SYS- Express Delivery"
       ],
       "Extra10": "63480",
       "Extra11": null,
@@ -2161,8 +2161,8 @@
         }
       ],
       "Facilities": [
-        "SYS- BWS Collect",
-        "SYS- Chilled BWS Collect"
+        "SYS- Chilled BWS Collect",
+        "SYS- BWS Collect"
       ],
       "Extra10": "74821",
       "Extra11": null,
@@ -2230,10 +2230,10 @@
         }
       ],
       "Facilities": [
-        "SYS- Express Delivery",
         "SYS- BWS Collect",
         "SYS- Chilled BWS Collect",
-        "SYS-Book regardless Pack"
+        "SYS-Book regardless Pack",
+        "SYS- Express Delivery"
       ],
       "Extra10": "76236",
       "Extra11": null,
@@ -2301,10 +2301,10 @@
         }
       ],
       "Facilities": [
-        "SYS- Express Delivery",
         "SYS- Chilled BWS Collect",
         "SYS-Book regardless Pack",
-        "SYS- BWS Collect"
+        "SYS- BWS Collect",
+        "SYS- Express Delivery"
       ],
       "Extra10": "77794",
       "Extra11": null,
@@ -2372,10 +2372,10 @@
         }
       ],
       "Facilities": [
+        "SYS- Chilled BWS Collect",
         "SYS- Express Delivery",
-        "SYS-Book regardless Pack",
         "SYS- BWS Collect",
-        "SYS- Chilled BWS Collect"
+        "SYS-Book regardless Pack"
       ],
       "Extra10": "93380",
       "Extra11": null,
@@ -2443,8 +2443,8 @@
         }
       ],
       "Facilities": [
-        "SYS-Book regardless Pack",
         "SYS- Chilled BWS Collect",
+        "SYS-Book regardless Pack",
         "SYS- Express Delivery",
         "SYS- BWS Collect"
       ],

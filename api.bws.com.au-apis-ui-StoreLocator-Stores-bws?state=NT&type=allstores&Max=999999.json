@@ -251,8 +251,8 @@
         }
       ],
       "Facilities": [
-        "SYS- Chilled BWS Collect",
         "In Shopping Centre",
+        "SYS- Chilled BWS Collect",
         "SYS- BWS Collect"
       ],
       "Extra10": "80904426",
@@ -321,9 +321,9 @@
         }
       ],
       "Facilities": [
-        "SYS- Chilled BWS Collect",
+        "In Shopping Centre",
         "SYS- BWS Collect",
-        "In Shopping Centre"
+        "SYS- Chilled BWS Collect"
       ],
       "Extra10": "80917513",
       "Extra11": null,
@@ -391,9 +391,9 @@
         }
       ],
       "Facilities": [
+        "SYS- Chilled BWS Collect",
         "SYS- BWS Collect",
-        "In Shopping Centre",
-        "SYS- Chilled BWS Collect"
+        "In Shopping Centre"
       ],
       "Extra10": "80903527",
       "Extra11": null,
@@ -461,9 +461,9 @@
         }
       ],
       "Facilities": [
-        "SYS- BWS Collect",
+        "SYS- Chilled BWS Collect",
         "In Shopping Centre",
-        "SYS- Chilled BWS Collect"
+        "SYS- BWS Collect"
       ],
       "Extra10": "80916856",
       "Extra11": null,
@@ -531,8 +531,8 @@
         }
       ],
       "Facilities": [
-        "SYS- BWS Collect",
-        "SYS- Chilled BWS Collect"
+        "SYS- Chilled BWS Collect",
+        "SYS- BWS Collect"
       ],
       "Extra10": "80901630",
       "Extra11": null,
@@ -601,8 +601,8 @@
       ],
       "Facilities": [
         "SYS- BWS Collect",
-        "In Shopping Centre",
-        "SYS- Chilled BWS Collect"
+        "SYS- Chilled BWS Collect",
+        "In Shopping Centre"
       ],
       "Extra10": "81019420/FLL1004",
       "Extra11": null,
@@ -740,9 +740,9 @@
         }
       ],
       "Facilities": [
-        "SYS- Chilled BWS Collect",
         "In Shopping Centre",
-        "SYS- BWS Collect"
+        "SYS- BWS Collect",
+        "SYS- Chilled BWS Collect"
       ],
       "Extra10": "80919180",
       "Extra11": null,
@@ -810,9 +810,9 @@
         }
       ],
       "Facilities": [
-        "Drive Thru",
         "SYS- BWS Collect",
-        "SYS- Chilled BWS Collect"
+        "SYS- Chilled BWS Collect",
+        "Drive Thru"
       ],
       "Extra10": "80315200",
       "Extra11": null,
@@ -880,8 +880,8 @@
         }
       ],
       "Facilities": [
-        "SYS- BWS Collect",
         "SYS- Chilled BWS Collect",
+        "SYS- BWS Collect",
         "Drive Thru"
       ],
       "Extra10": "80315250",
@@ -1020,9 +1020,9 @@
         }
       ],
       "Facilities": [
+        "Drive Thru",
         "SYS- Chilled BWS Collect",
-        "SYS- BWS Collect",
-        "Drive Thru"
+        "SYS- BWS Collect"
       ],
       "Extra10": "80100307",
       "Extra11": null,
@@ -1157,8 +1157,8 @@
       ],
       "Facilities": [
         "SYS- BWS Collect",
-        "Drive Thru",
-        "SYS- Chilled BWS Collect"
+        "SYS- Chilled BWS Collect",
+        "Drive Thru"
       ],
       "Extra10": "80101040/FLL",
       "Extra11": null,
