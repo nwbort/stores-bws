@@ -1,0 +1,1577 @@
+{
+  "Stores": [
+    {
+      "Manager": null,
+      "GmtZone": "11:0",
+      "Country": "Australia",
+      "Extra5": "1954",
+      "DaysToFulfillBackOrder": 4,
+      "Radius": null,
+      "IsClickAndCollectEnabled": true,
+      "IsDeliveryEnabled": true,
+      "CanDeliverToLocation": false,
+      "IsBackorderEnabled": true,
+      "IsOpeningHoursOverridden": false,
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "9:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "9:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "10:00 AM - 7:00 PM"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "9:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "9:00 AM - 8:00 PM"
+        }
+      ],
+      "Facilities": [
+        "SYS- BWS Collect",
+        "SYS- Chilled BWS Collect",
+        "SYS-Book regardless Pack",
+        "SYS- Express Delivery"
+      ],
+      "Extra10": "14005588",
+      "Extra11": "19400995",
+      "Division": "BWS",
+      "StoreNo": "1186",
+      "Name": "Wanniassa",
+      "AddressLine1": "Shop 8, 10-17 Sangster Place",
+      "Suburb": "Wanniassa",
+      "State": "ACT",
+      "Postcode": "2903",
+      "Latitude": "-35.3916",
+      "Longitude": "149.0861",
+      "GeoLevel": "0",
+      "Distance": "",
+      "Phone": "(02) 6296 4187",
+      "TotalItemsInCart": 0,
+      "AvailableItems": 0,
+      "UnavailableItems": 0,
+      "StoreType": "Standalone"
+    },
+    {
+      "Manager": null,
+      "GmtZone": "11:0",
+      "Country": "Australia",
+      "Extra5": "4909",
+      "DaysToFulfillBackOrder": 4,
+      "Radius": null,
+      "IsClickAndCollectEnabled": true,
+      "IsDeliveryEnabled": true,
+      "CanDeliverToLocation": false,
+      "IsBackorderEnabled": true,
+      "IsOpeningHoursOverridden": false,
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "9:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "9:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "10:00 AM - 7:00 PM"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "9:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "9:00 AM - 8:00 PM"
+        }
+      ],
+      "Facilities": [
+        "SYS- Chilled BWS Collect",
+        "SYS-Book regardless Pack",
+        "SYS- BWS Collect",
+        "SYS- Express Delivery"
+      ],
+      "Extra10": "14004412",
+      "Extra11": "19400993",
+      "Division": "BWS",
+      "StoreNo": "1581",
+      "Name": "Kaleen",
+      "AddressLine1": "Georgina Crescent",
+      "Suburb": "Kaleen",
+      "State": "ACT",
+      "Postcode": "2617",
+      "Latitude": "-35.22013547",
+      "Longitude": "149.1038744",
+      "GeoLevel": "0",
+      "Distance": "",
+      "Phone": "(02) 6241 2430",
+      "TotalItemsInCart": 0,
+      "AvailableItems": 0,
+      "UnavailableItems": 0,
+      "StoreType": "Standalone"
+    },
+    {
+      "Manager": null,
+      "GmtZone": "11:0",
+      "Country": "Australia",
+      "Extra5": "4909",
+      "DaysToFulfillBackOrder": 4,
+      "Radius": null,
+      "IsClickAndCollectEnabled": true,
+      "IsDeliveryEnabled": true,
+      "CanDeliverToLocation": false,
+      "IsBackorderEnabled": true,
+      "IsOpeningHoursOverridden": false,
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "10:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        }
+      ],
+      "Facilities": [
+        "SYS-Book regardless Pack",
+        "SYS- Chilled BWS Collect",
+        "SYS- BWS Collect",
+        "SYS- Express Delivery"
+      ],
+      "Extra10": "14002484",
+      "Extra11": "19400994",
+      "Division": "BWS",
+      "StoreNo": "1582",
+      "Name": "Kingston",
+      "AddressLine1": "42 Giles Street",
+      "Suburb": "Kingston",
+      "State": "ACT",
+      "Postcode": "2604",
+      "Latitude": "-35.3156",
+      "Longitude": "149.1405",
+      "GeoLevel": "0",
+      "Distance": "",
+      "Phone": "(02) 6295 9706",
+      "TotalItemsInCart": 0,
+      "AvailableItems": 0,
+      "UnavailableItems": 0,
+      "StoreType": "Standalone"
+    },
+    {
+      "Manager": null,
+      "GmtZone": "11:0",
+      "Country": "Australia",
+      "Extra5": "3943, 3981",
+      "DaysToFulfillBackOrder": 4,
+      "Radius": null,
+      "IsClickAndCollectEnabled": true,
+      "IsDeliveryEnabled": true,
+      "CanDeliverToLocation": false,
+      "IsBackorderEnabled": true,
+      "IsOpeningHoursOverridden": false,
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        }
+      ],
+      "Facilities": [
+        "SYS-Book regardless Pack",
+        "SYS- Chilled BWS Collect",
+        "SYS- Express Delivery",
+        "SYS- BWS Collect"
+      ],
+      "Extra10": "14005617",
+      "Extra11": "19400998",
+      "Division": "BWS",
+      "StoreNo": "1663",
+      "Name": "Bonner",
+      "AddressLine1": "61 Mabo Boulevard",
+      "Suburb": "Bonner",
+      "State": "ACT",
+      "Postcode": "2914",
+      "Latitude": "-35.1615",
+      "Longitude": "149.1393",
+      "GeoLevel": "0",
+      "Distance": "",
+      "Phone": "(02) 6242 4164",
+      "TotalItemsInCart": 0,
+      "AvailableItems": 0,
+      "UnavailableItems": 0,
+      "StoreType": "Metro"
+    },
+    {
+      "Manager": null,
+      "GmtZone": "11:0",
+      "Country": "Australia",
+      "Extra5": "3943, 3981",
+      "DaysToFulfillBackOrder": 4,
+      "Radius": null,
+      "IsClickAndCollectEnabled": true,
+      "IsDeliveryEnabled": true,
+      "CanDeliverToLocation": false,
+      "IsBackorderEnabled": true,
+      "IsOpeningHoursOverridden": false,
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "9:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "9:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "10:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "9:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "9:00 AM - 8:00 PM"
+        }
+      ],
+      "Facilities": [
+        "SYS- BWS Collect",
+        "SYS- Express Delivery",
+        "SYS- Chilled BWS Collect",
+        "SYS-Book regardless Pack"
+      ],
+      "Extra10": "14002610",
+      "Extra11": "19401006",
+      "Division": "BWS",
+      "StoreNo": "1666",
+      "Name": "Hawker",
+      "AddressLine1": "29-28 Hawker Place",
+      "Suburb": "Hawker",
+      "State": "ACT",
+      "Postcode": "2614",
+      "Latitude": "-35.24331764",
+      "Longitude": "149.0440224",
+      "GeoLevel": "0",
+      "Distance": "",
+      "Phone": "(02) 6133 9532",
+      "TotalItemsInCart": 0,
+      "AvailableItems": 0,
+      "UnavailableItems": 0,
+      "StoreType": "Metro"
+    },
+    {
+      "Manager": null,
+      "GmtZone": "11:0",
+      "Country": "Australia",
+      "Extra5": "3943, 3981",
+      "DaysToFulfillBackOrder": 5,
+      "Radius": null,
+      "IsClickAndCollectEnabled": true,
+      "IsDeliveryEnabled": true,
+      "CanDeliverToLocation": false,
+      "IsBackorderEnabled": true,
+      "IsOpeningHoursOverridden": false,
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "10:30 AM - 8:00 PM"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "10:30 AM - 8:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "10:30 AM - 9:00 PM"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "10:00 AM - 7:00 PM"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "10:30 AM - 8:00 PM"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "10:30 AM - 8:00 PM"
+        }
+      ],
+      "Facilities": [
+        "In Shopping Centre",
+        "SYS- Chilled BWS Collect",
+        "SYS- Express Delivery",
+        "SYS-Book regardless Pack",
+        "SYS- BWS Collect"
+      ],
+      "Extra10": "14005778",
+      "Extra11": null,
+      "Division": "BWS",
+      "StoreNo": "1724",
+      "Name": "Wright",
+      "AddressLine1": "69 John Gorton Drive",
+      "Suburb": "Wright",
+      "State": "ACT",
+      "Postcode": "2611",
+      "Latitude": "-35.32065137",
+      "Longitude": "149.037256",
+      "GeoLevel": "7",
+      "Distance": "",
+      "Phone": "02 61329336",
+      "TotalItemsInCart": 0,
+      "AvailableItems": 0,
+      "UnavailableItems": 0,
+      "StoreType": "Metro"
+    },
+    {
+      "Manager": null,
+      "GmtZone": "11:0",
+      "Country": "Australia",
+      "Extra5": "3943, 3981",
+      "DaysToFulfillBackOrder": 4,
+      "Radius": null,
+      "IsClickAndCollectEnabled": true,
+      "IsDeliveryEnabled": true,
+      "CanDeliverToLocation": false,
+      "IsBackorderEnabled": true,
+      "IsOpeningHoursOverridden": false,
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "9:00 AM - 10:00 PM"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "9:00 AM - 10:00 PM"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "9:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        }
+      ],
+      "Facilities": [
+        "Drive Thru",
+        "SYS-Book regardless Pack",
+        "SYS- Chilled BWS Collect",
+        "SYS- BWS Collect",
+        "SYS- Express Delivery"
+      ],
+      "Extra10": "14005674",
+      "Extra11": "19401004",
+      "Division": "BWS",
+      "StoreNo": "1737",
+      "Name": "Franklin",
+      "AddressLine1": "Cnr Fleminton Rd & Nullarbour Ave",
+      "Suburb": "Franklin",
+      "State": "ACT",
+      "Postcode": "2913",
+      "Latitude": "-35.2008",
+      "Longitude": "149.1491",
+      "GeoLevel": "0",
+      "Distance": "",
+      "Phone": "(02) 6241 4986",
+      "TotalItemsInCart": 0,
+      "AvailableItems": 0,
+      "UnavailableItems": 0,
+      "StoreType": "Metro"
+    },
+    {
+      "Manager": null,
+      "GmtZone": "11:0",
+      "Country": "Australia",
+      "Extra5": "39433981",
+      "DaysToFulfillBackOrder": 4,
+      "Radius": null,
+      "IsClickAndCollectEnabled": true,
+      "IsDeliveryEnabled": true,
+      "CanDeliverToLocation": false,
+      "IsBackorderEnabled": true,
+      "IsOpeningHoursOverridden": false,
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "11:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "11:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "11:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "10:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "10:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "10:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "11:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "11:00 AM - 8:00 PM"
+        }
+      ],
+      "Facilities": [
+        "SYS- Express Delivery",
+        "SYS- BWS Collect",
+        "SYS-Book regardless Pack",
+        "SYS- Chilled BWS Collect"
+      ],
+      "Extra10": "14005731",
+      "Extra11": "19401022",
+      "Division": "BWS",
+      "StoreNo": "1808",
+      "Name": "Republic Belconnen",
+      "AddressLine1": "1 Edmondstone Place",
+      "Suburb": "Belconnen",
+      "State": "ACT",
+      "Postcode": "2617",
+      "Latitude": "-35.24016394",
+      "Longitude": "149.0721909",
+      "GeoLevel": "0",
+      "Distance": "",
+      "Phone": "261329332",
+      "TotalItemsInCart": 0,
+      "AvailableItems": 0,
+      "UnavailableItems": 0,
+      "StoreType": "Metro"
+    },
+    {
+      "Manager": null,
+      "GmtZone": "11:0",
+      "Country": "Australia",
+      "Extra5": "4909",
+      "DaysToFulfillBackOrder": 4,
+      "Radius": null,
+      "IsClickAndCollectEnabled": true,
+      "IsDeliveryEnabled": true,
+      "CanDeliverToLocation": false,
+      "IsBackorderEnabled": true,
+      "IsOpeningHoursOverridden": false,
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 10:00 PM"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "9:00 AM - 10:00 PM"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "11:00 AM - 10:00 PM"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "11:00 AM - 7:00 PM"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "10:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        }
+      ],
+      "Facilities": [
+        "SYS- BWS Collect",
+        "SYS- Express Delivery",
+        "SYS- Chilled BWS Collect",
+        "SYS-Book regardless Pack"
+      ],
+      "Extra10": "14005701",
+      "Extra11": "19400996",
+      "Division": "BWS",
+      "StoreNo": "1880",
+      "Name": "Canberra City",
+      "AddressLine1": "Mayfair Apartments, 45 West Row",
+      "Suburb": "Canberra",
+      "State": "ACT",
+      "Postcode": "2601",
+      "Latitude": "-35.2787",
+      "Longitude": "149.1276",
+      "GeoLevel": "0",
+      "Distance": "",
+      "Phone": "(02) 6257 4450",
+      "TotalItemsInCart": 0,
+      "AvailableItems": 0,
+      "UnavailableItems": 0,
+      "StoreType": "Standalone"
+    },
+    {
+      "Manager": null,
+      "GmtZone": "11:0",
+      "Country": "Australia",
+      "Extra5": "3943, 3981",
+      "DaysToFulfillBackOrder": 4,
+      "Radius": null,
+      "IsClickAndCollectEnabled": true,
+      "IsDeliveryEnabled": true,
+      "CanDeliverToLocation": false,
+      "IsBackorderEnabled": true,
+      "IsOpeningHoursOverridden": false,
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "9:00 AM - 10:00 PM"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "9:00 AM - 10:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 10:00 PM"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "9:00 AM - 10:00 PM"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "9:00 AM - 10:00 PM"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "9:00 AM - 10:00 PM"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "9:00 AM - 10:00 PM"
+        }
+      ],
+      "Facilities": [
+        "SYS- Chilled BWS Collect",
+        "SYS- Express Delivery",
+        "SYS-Book regardless Pack",
+        "SYS- BWS Collect"
+      ],
+      "Extra10": "14005587",
+      "Extra11": "19401002",
+      "Division": "BWS",
+      "StoreNo": "6095",
+      "Name": "Dickson (Dickson Pl)",
+      "AddressLine1": "1 Dickson Place",
+      "Suburb": "Dickson",
+      "State": "ACT",
+      "Postcode": "2602",
+      "Latitude": "-35.25016832",
+      "Longitude": "149.1389321",
+      "GeoLevel": "0",
+      "Distance": "",
+      "Phone": "(02) 6132 9308",
+      "TotalItemsInCart": 0,
+      "AvailableItems": 0,
+      "UnavailableItems": 0,
+      "StoreType": "Partner Store"
+    },
+    {
+      "Manager": null,
+      "GmtZone": "11:0",
+      "Country": "Australia",
+      "Extra5": "3943, 3981",
+      "DaysToFulfillBackOrder": 4,
+      "Radius": null,
+      "IsClickAndCollectEnabled": true,
+      "IsDeliveryEnabled": true,
+      "CanDeliverToLocation": false,
+      "IsBackorderEnabled": true,
+      "IsOpeningHoursOverridden": false,
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 10:00 PM"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "9:00 AM - 10:00 PM"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "9:00 AM - 10:00 PM"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        }
+      ],
+      "Facilities": [
+        "SYS- Express Delivery",
+        "SYS- BWS Collect",
+        "SYS- Chilled BWS Collect",
+        "SYS-Book regardless Pack"
+      ],
+      "Extra10": "14002791",
+      "Extra11": "19401009",
+      "Division": "BWS",
+      "StoreNo": "6137",
+      "Name": "Mawson",
+      "AddressLine1": "Mawson Place",
+      "Suburb": "Mawson",
+      "State": "ACT",
+      "Postcode": "2607",
+      "Latitude": "-35.3661",
+      "Longitude": "149.0945",
+      "GeoLevel": "0",
+      "Distance": "",
+      "Phone": "(02) 6132 9312",
+      "TotalItemsInCart": 0,
+      "AvailableItems": 0,
+      "UnavailableItems": 0,
+      "StoreType": "Partner Store"
+    },
+    {
+      "Manager": null,
+      "GmtZone": "11:0",
+      "Country": "Australia",
+      "Extra5": "3943, 3981",
+      "DaysToFulfillBackOrder": 4,
+      "Radius": null,
+      "IsClickAndCollectEnabled": true,
+      "IsDeliveryEnabled": true,
+      "CanDeliverToLocation": false,
+      "IsBackorderEnabled": true,
+      "IsOpeningHoursOverridden": false,
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        }
+      ],
+      "Facilities": [
+        "SYS-Book regardless Pack",
+        "SYS- Express Delivery",
+        "SYS- Chilled BWS Collect",
+        "SYS- BWS Collect"
+      ],
+      "Extra10": "14002302",
+      "Extra11": "19401007",
+      "Division": "BWS",
+      "StoreNo": "6194",
+      "Name": "Kambah",
+      "AddressLine1": "Marconi Crescent",
+      "Suburb": "Kambah",
+      "State": "ACT",
+      "Postcode": "2902",
+      "Latitude": "-35.3803",
+      "Longitude": "149.0576",
+      "GeoLevel": "0",
+      "Distance": "",
+      "Phone": "(02) 6132 9315",
+      "TotalItemsInCart": 0,
+      "AvailableItems": 0,
+      "UnavailableItems": 0,
+      "StoreType": "Partner Store"
+    },
+    {
+      "Manager": null,
+      "GmtZone": "11:0",
+      "Country": "Australia",
+      "Extra5": "3943, 3981",
+      "DaysToFulfillBackOrder": 4,
+      "Radius": null,
+      "IsClickAndCollectEnabled": true,
+      "IsDeliveryEnabled": true,
+      "CanDeliverToLocation": false,
+      "IsBackorderEnabled": true,
+      "IsOpeningHoursOverridden": false,
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "9:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "9:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "9:00 AM - 9:30 PM"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "9:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "10:00 AM - 7:00 PM"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "9:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "9:00 AM - 8:00 PM"
+        }
+      ],
+      "Facilities": [
+        "SYS- BWS Collect",
+        "SYS- Chilled BWS Collect",
+        "In Shopping Centre",
+        "SYS- Express Delivery",
+        "SYS-Book regardless Pack"
+      ],
+      "Extra10": "14003743",
+      "Extra11": "19401010",
+      "Division": "BWS",
+      "StoreNo": "6198",
+      "Name": "Tuggeranong",
+      "AddressLine1": "Tuggeranong Hyperdome, Cnr Anketell &, Reed St N",
+      "Suburb": "Greenway",
+      "State": "ACT",
+      "Postcode": "2900",
+      "Latitude": "-35.4158",
+      "Longitude": "149.0671",
+      "GeoLevel": "0",
+      "Distance": "",
+      "Phone": "(02) 6132 9316",
+      "TotalItemsInCart": 0,
+      "AvailableItems": 0,
+      "UnavailableItems": 0,
+      "StoreType": "Partner Store"
+    },
+    {
+      "Manager": null,
+      "GmtZone": "11:0",
+      "Country": "Australia",
+      "Extra5": "3943, 3981",
+      "DaysToFulfillBackOrder": 4,
+      "Radius": null,
+      "IsClickAndCollectEnabled": true,
+      "IsDeliveryEnabled": true,
+      "CanDeliverToLocation": false,
+      "IsBackorderEnabled": true,
+      "IsOpeningHoursOverridden": false,
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "10:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        }
+      ],
+      "Facilities": [
+        "SYS- Chilled BWS Collect",
+        "SYS- BWS Collect",
+        "SYS-Book regardless Pack",
+        "SYS- Express Delivery",
+        "In Shopping Centre"
+      ],
+      "Extra10": "14003436",
+      "Extra11": "19401003",
+      "Division": "BWS",
+      "StoreNo": "6206",
+      "Name": "Erindale",
+      "AddressLine1": "50-68 Comrie Street",
+      "Suburb": "Wanniassa",
+      "State": "ACT",
+      "Postcode": "2903",
+      "Latitude": "-35.4037",
+      "Longitude": "149.0987",
+      "GeoLevel": "0",
+      "Distance": "",
+      "Phone": "(02) 6132 9317",
+      "TotalItemsInCart": 0,
+      "AvailableItems": 0,
+      "UnavailableItems": 0,
+      "StoreType": "Partner Store"
+    },
+    {
+      "Manager": null,
+      "GmtZone": "11:0",
+      "Country": "Australia",
+      "Extra5": "3943, 3981",
+      "DaysToFulfillBackOrder": 4,
+      "Radius": 3,
+      "IsClickAndCollectEnabled": true,
+      "IsDeliveryEnabled": true,
+      "CanDeliverToLocation": false,
+      "IsBackorderEnabled": true,
+      "IsOpeningHoursOverridden": false,
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "9:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        }
+      ],
+      "Facilities": [
+        "SYS- Express Delivery",
+        "SYS- Chilled BWS Collect",
+        "SYS- BWS Collect",
+        "In Shopping Centre",
+        "SYS-Book regardless Pack"
+      ],
+      "Extra10": "14004375",
+      "Extra11": "19400999",
+      "Division": "BWS",
+      "StoreNo": "6223",
+      "Name": "Calwell",
+      "AddressLine1": "Calwell Shopping Centre, Johnson Drive",
+      "Suburb": "Calwell",
+      "State": "ACT",
+      "Postcode": "2905",
+      "Latitude": "-35.4345",
+      "Longitude": "149.1142",
+      "GeoLevel": "0",
+      "Distance": "",
+      "Phone": "(02) 6132 9311",
+      "TotalItemsInCart": 0,
+      "AvailableItems": 0,
+      "UnavailableItems": 0,
+      "StoreType": "Partner Store"
+    },
+    {
+      "Manager": null,
+      "GmtZone": "11:0",
+      "Country": "Australia",
+      "Extra5": "3943, 3981",
+      "DaysToFulfillBackOrder": 4,
+      "Radius": null,
+      "IsClickAndCollectEnabled": true,
+      "IsDeliveryEnabled": true,
+      "CanDeliverToLocation": false,
+      "IsBackorderEnabled": true,
+      "IsOpeningHoursOverridden": false,
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "9:00 AM - 10:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 10:00 PM"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "9:00 AM - 10:00 PM"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "9:00 AM - 10:00 PM"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        }
+      ],
+      "Facilities": [
+        "SYS- BWS Collect",
+        "SYS-Book regardless Pack",
+        "In Shopping Centre",
+        "SYS- Express Delivery",
+        "SYS- Chilled BWS Collect"
+      ],
+      "Extra10": "14005795",
+      "Extra11": "19401011",
+      "Division": "BWS",
+      "StoreNo": "6248",
+      "Name": "Weston Creek",
+      "AddressLine1": "Shop No. SO04, Cooleman Court, Brierly Street",
+      "Suburb": "Weston Creek",
+      "State": "ACT",
+      "Postcode": "2611",
+      "Latitude": "-35.3414",
+      "Longitude": "149.0524",
+      "GeoLevel": "0",
+      "Distance": "",
+      "Phone": "(02) 6132 9314",
+      "TotalItemsInCart": 0,
+      "AvailableItems": 0,
+      "UnavailableItems": 0,
+      "StoreType": "Partner Store"
+    },
+    {
+      "Manager": null,
+      "GmtZone": "11:0",
+      "Country": "Australia",
+      "Extra5": "3943, 3981",
+      "DaysToFulfillBackOrder": 4,
+      "Radius": null,
+      "IsClickAndCollectEnabled": true,
+      "IsDeliveryEnabled": true,
+      "CanDeliverToLocation": false,
+      "IsBackorderEnabled": true,
+      "IsOpeningHoursOverridden": false,
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "9:00 AM - 10:00 PM"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "10:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        }
+      ],
+      "Facilities": [
+        "SYS-Book regardless Pack",
+        "SYS- BWS Collect",
+        "SYS- Chilled BWS Collect",
+        "SYS- Express Delivery",
+        "In Shopping Centre"
+      ],
+      "Extra10": "14004893",
+      "Extra11": "19401005",
+      "Division": "BWS",
+      "StoreNo": "6279",
+      "Name": "BWS Gungahlin",
+      "AddressLine1": "31 Hibberson Street",
+      "Suburb": "Gungahlin",
+      "State": "ACT",
+      "Postcode": "2912",
+      "Latitude": "-35.185",
+      "Longitude": "149.1346",
+      "GeoLevel": "0",
+      "Distance": "",
+      "Phone": "(02) 6132 9320",
+      "TotalItemsInCart": 0,
+      "AvailableItems": 0,
+      "UnavailableItems": 0,
+      "StoreType": "Partner Store"
+    },
+    {
+      "Manager": null,
+      "GmtZone": "11:0",
+      "Country": "Australia",
+      "Extra5": "3943, 3981",
+      "DaysToFulfillBackOrder": 4,
+      "Radius": null,
+      "IsClickAndCollectEnabled": true,
+      "IsDeliveryEnabled": true,
+      "CanDeliverToLocation": false,
+      "IsBackorderEnabled": true,
+      "IsOpeningHoursOverridden": false,
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "9:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        }
+      ],
+      "Facilities": [
+        "SYS- BWS Collect",
+        "SYS- Chilled BWS Collect",
+        "SYS-Book regardless Pack",
+        "SYS- Express Delivery"
+      ],
+      "Extra10": "14001730",
+      "Extra11": "19401000",
+      "Division": "BWS",
+      "StoreNo": "6435",
+      "Name": "Charnwood",
+      "AddressLine1": "Charnwood Place",
+      "Suburb": "Charnwood",
+      "State": "ACT",
+      "Postcode": "2615",
+      "Latitude": "-35.2044",
+      "Longitude": "149.0336",
+      "GeoLevel": "0",
+      "Distance": "",
+      "Phone": "(02) 6132 9322",
+      "TotalItemsInCart": 0,
+      "AvailableItems": 0,
+      "UnavailableItems": 0,
+      "StoreType": "Partner Store"
+    },
+    {
+      "Manager": null,
+      "GmtZone": "11:0",
+      "Country": "Australia",
+      "Extra5": "3943, 3981",
+      "DaysToFulfillBackOrder": 4,
+      "Radius": null,
+      "IsClickAndCollectEnabled": true,
+      "IsDeliveryEnabled": true,
+      "CanDeliverToLocation": false,
+      "IsBackorderEnabled": true,
+      "IsOpeningHoursOverridden": false,
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 10:00 PM"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "9:00 AM - 10:00 PM"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "9:00 AM - 10:00 PM"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        }
+      ],
+      "Facilities": [
+        "SYS-Book regardless Pack",
+        "SYS- Express Delivery",
+        "In Shopping Centre",
+        "SYS- BWS Collect",
+        "SYS- Chilled BWS Collect"
+      ],
+      "Extra10": "14001940",
+      "Extra11": "19401008",
+      "Division": "BWS",
+      "StoreNo": "6705",
+      "Name": "Kippax",
+      "AddressLine1": "24-48 Hardwick Crescent",
+      "Suburb": "Holt",
+      "State": "ACT",
+      "Postcode": "2615",
+      "Latitude": "-35.2226",
+      "Longitude": "149.02",
+      "GeoLevel": "0",
+      "Distance": "",
+      "Phone": "(02) 6132 9318",
+      "TotalItemsInCart": 0,
+      "AvailableItems": 0,
+      "UnavailableItems": 0,
+      "StoreType": "Partner Store"
+    },
+    {
+      "Manager": null,
+      "GmtZone": "11:0",
+      "Country": "Australia",
+      "Extra5": "39,433,981",
+      "DaysToFulfillBackOrder": 4,
+      "Radius": null,
+      "IsClickAndCollectEnabled": true,
+      "IsDeliveryEnabled": true,
+      "CanDeliverToLocation": false,
+      "IsBackorderEnabled": true,
+      "IsOpeningHoursOverridden": false,
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "10:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "10:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "10:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "10:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "9:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "10:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "10:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "10:00 AM - 8:00 PM"
+        }
+      ],
+      "Facilities": [
+        "SYS- Express Delivery",
+        "SYS- BWS Collect",
+        "SYS-Book regardless Pack",
+        "SYS- Chilled BWS Collect"
+      ],
+      "Extra10": "14005613",
+      "Extra11": "19401019",
+      "Division": "BWS",
+      "StoreNo": "6709",
+      "Name": "Dunlop",
+      "AddressLine1": "Lot 4, 68 Lance Hill Avenue",
+      "Suburb": "Dunlop",
+      "State": "ACT",
+      "Postcode": "2615",
+      "Latitude": "-35.1945",
+      "Longitude": "149.0195",
+      "GeoLevel": "0",
+      "Distance": "",
+      "Phone": "(02) 6132 9849",
+      "TotalItemsInCart": 0,
+      "AvailableItems": 0,
+      "UnavailableItems": 0,
+      "StoreType": "Partner Store"
+    },
+    {
+      "Manager": null,
+      "GmtZone": "11:0",
+      "Country": "Australia",
+      "Extra5": "39,433,981",
+      "DaysToFulfillBackOrder": 4,
+      "Radius": null,
+      "IsClickAndCollectEnabled": true,
+      "IsDeliveryEnabled": true,
+      "CanDeliverToLocation": false,
+      "IsBackorderEnabled": true,
+      "IsOpeningHoursOverridden": false,
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "9:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "9:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "9:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "9:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "9:00 AM - 8:00 PM"
+        }
+      ],
+      "Facilities": [
+        "SYS- Express Delivery",
+        "In Shopping Centre",
+        "SYS- BWS Collect",
+        "SYS-Book regardless Pack",
+        "SYS- Chilled BWS Collect"
+      ],
+      "Extra10": "14002804",
+      "Extra11": "19401012",
+      "Division": "BWS",
+      "StoreNo": "6723",
+      "Name": "Woden",
+      "AddressLine1": "Westfields Woden, Cnr Hindmarsh & Melrose Drives",
+      "Suburb": "Woden",
+      "State": "ACT",
+      "Postcode": "2606",
+      "Latitude": "-35.3487",
+      "Longitude": "149.0842",
+      "GeoLevel": "0",
+      "Distance": "",
+      "Phone": "(02) 6132 9310",
+      "TotalItemsInCart": 0,
+      "AvailableItems": 0,
+      "UnavailableItems": 0,
+      "StoreType": "Partner Store"
+    },
+    {
+      "Manager": null,
+      "GmtZone": "11:0",
+      "Country": "Australia",
+      "Extra5": "39,433,981",
+      "DaysToFulfillBackOrder": 4,
+      "Radius": null,
+      "IsClickAndCollectEnabled": true,
+      "IsDeliveryEnabled": true,
+      "CanDeliverToLocation": false,
+      "IsBackorderEnabled": true,
+      "IsOpeningHoursOverridden": false,
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "10:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "10:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "9:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "9:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "10:00 AM - 7:00 PM"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "10:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "10:00 AM - 8:00 PM"
+        }
+      ],
+      "Facilities": [
+        "In Shopping Centre",
+        "SYS- Express Delivery",
+        "SYS- BWS Collect",
+        "SYS-Book regardless Pack",
+        "SYS- Chilled BWS Collect"
+      ],
+      "Extra10": "14002812",
+      "Extra11": "19400997",
+      "Division": "BWS",
+      "StoreNo": "6724",
+      "Name": "Belconnen",
+      "AddressLine1": "Westfield Belconnen, Benjamin Way",
+      "Suburb": "Belconnen",
+      "State": "ACT",
+      "Postcode": "2617",
+      "Latitude": "-35.2382",
+      "Longitude": "149.065",
+      "GeoLevel": "0",
+      "Distance": "",
+      "Phone": "(02) 6132 9313",
+      "TotalItemsInCart": 0,
+      "AvailableItems": 0,
+      "UnavailableItems": 0,
+      "StoreType": "Partner Store"
+    }
+  ],
+  "DeliveryStores": []
+}

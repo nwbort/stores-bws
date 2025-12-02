@@ -1,0 +1,1184 @@
+{
+  "Stores": [
+    {
+      "Manager": null,
+      "GmtZone": "9:30",
+      "Country": "Australia",
+      "Extra5": "5911",
+      "DaysToFulfillBackOrder": 7,
+      "Radius": null,
+      "IsClickAndCollectEnabled": false,
+      "IsDeliveryEnabled": false,
+      "CanDeliverToLocation": false,
+      "IsBackorderEnabled": false,
+      "IsOpeningHoursOverridden": false,
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "CLOSED"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "3:00 PM - 7:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "3:00 PM - 7:00 PM"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "3:00 PM - 7:00 PM"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "11:00 AM - 7:00 PM"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "CLOSED"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "CLOSED"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "CLOSED"
+        }
+      ],
+      "Facilities": [
+        "In Shopping Centre"
+      ],
+      "Extra10": "80902856",
+      "Extra11": null,
+      "Division": "BWS",
+      "StoreNo": "5034",
+      "Name": "Alice Springs",
+      "AddressLine1": "36-38 Hartley Street",
+      "Suburb": "Alice Springs",
+      "State": "NT",
+      "Postcode": "870",
+      "Latitude": "-23.69947",
+      "Longitude": "133.880854",
+      "GeoLevel": "0",
+      "Distance": "",
+      "Phone": "(08) 8958 6501",
+      "TotalItemsInCart": 0,
+      "AvailableItems": 0,
+      "UnavailableItems": 0,
+      "StoreType": "Partner Store"
+    },
+    {
+      "Manager": null,
+      "GmtZone": "9:30",
+      "Country": "Australia",
+      "Extra5": "5911",
+      "DaysToFulfillBackOrder": 7,
+      "Radius": null,
+      "IsClickAndCollectEnabled": false,
+      "IsDeliveryEnabled": false,
+      "CanDeliverToLocation": false,
+      "IsBackorderEnabled": false,
+      "IsOpeningHoursOverridden": false,
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "2:00 PM - 8:00 PM"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "2:00 PM - 8:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "2:00 PM - 8:00 PM"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "2:00 PM - 8:00 PM"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "10:00 AM - 7:00 PM"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "CLOSED"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "2:00 PM - 8:00 PM"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "2:00 PM - 8:00 PM"
+        }
+      ],
+      "Facilities": [
+        "In Shopping Centre"
+      ],
+      "Extra10": "80904537",
+      "Extra11": null,
+      "Division": "BWS",
+      "StoreNo": "5038",
+      "Name": "Nhulunbuy",
+      "AddressLine1": "Endeavour Square",
+      "Suburb": "Nhulunbuy",
+      "State": "NT",
+      "Postcode": "880",
+      "Latitude": "-12.184",
+      "Longitude": "136.7869",
+      "GeoLevel": "0",
+      "Distance": "",
+      "Phone": "(08) 8965 2003",
+      "TotalItemsInCart": 0,
+      "AvailableItems": 0,
+      "UnavailableItems": 0,
+      "StoreType": "Partner Store"
+    },
+    {
+      "Manager": null,
+      "GmtZone": "9:30",
+      "Country": "Australia",
+      "Extra5": "5911",
+      "DaysToFulfillBackOrder": 7,
+      "Radius": null,
+      "IsClickAndCollectEnabled": false,
+      "IsDeliveryEnabled": false,
+      "CanDeliverToLocation": false,
+      "IsBackorderEnabled": false,
+      "IsOpeningHoursOverridden": false,
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "2:00 PM - 8:00 PM"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "2:00 PM - 8:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "2:00 PM - 8:00 PM"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "2:00 PM - 8:00 PM"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "12:00 PM - 8:00 PM"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "CLOSED"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "2:00 PM - 8:00 PM"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "2:00 PM - 8:00 PM"
+        }
+      ],
+      "Facilities": [
+        "In Shopping Centre"
+      ],
+      "Extra10": "80900131",
+      "Extra11": null,
+      "Division": "BWS",
+      "StoreNo": "5046",
+      "Name": "Katherine",
+      "AddressLine1": "Katherine Terrace",
+      "Suburb": "Katherine",
+      "State": "NT",
+      "Postcode": "850",
+      "Latitude": "-14.4659",
+      "Longitude": "132.2652",
+      "GeoLevel": "0",
+      "Distance": "",
+      "Phone": "(08) 8973 3103",
+      "TotalItemsInCart": 0,
+      "AvailableItems": 0,
+      "UnavailableItems": 0,
+      "StoreType": "Partner Store"
+    },
+    {
+      "Manager": null,
+      "GmtZone": "9:30",
+      "Country": "Australia",
+      "Extra5": "5911",
+      "DaysToFulfillBackOrder": 7,
+      "Radius": null,
+      "IsClickAndCollectEnabled": true,
+      "IsDeliveryEnabled": false,
+      "CanDeliverToLocation": false,
+      "IsBackorderEnabled": true,
+      "IsOpeningHoursOverridden": false,
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "CLOSED"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        }
+      ],
+      "Facilities": [
+        "SYS- Chilled BWS Collect",
+        "In Shopping Centre",
+        "SYS- BWS Collect"
+      ],
+      "Extra10": "80904426",
+      "Extra11": null,
+      "Division": "BWS",
+      "StoreNo": "5048",
+      "Name": "Humpty Doo",
+      "AddressLine1": "2 Challoner Circuit",
+      "Suburb": "Humpty Doo",
+      "State": "NT",
+      "Postcode": "836",
+      "Latitude": "-12.5744",
+      "Longitude": "131.1013",
+      "GeoLevel": "0",
+      "Distance": "",
+      "Phone": "(08) 8978 4003",
+      "TotalItemsInCart": 0,
+      "AvailableItems": 0,
+      "UnavailableItems": 0,
+      "StoreType": "Partner Store"
+    },
+    {
+      "Manager": null,
+      "GmtZone": "9:30",
+      "Country": "Australia",
+      "Extra5": "5911",
+      "DaysToFulfillBackOrder": 7,
+      "Radius": null,
+      "IsClickAndCollectEnabled": true,
+      "IsDeliveryEnabled": false,
+      "CanDeliverToLocation": false,
+      "IsBackorderEnabled": true,
+      "IsOpeningHoursOverridden": false,
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "CLOSED"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        }
+      ],
+      "Facilities": [
+        "SYS- Chilled BWS Collect",
+        "SYS- BWS Collect",
+        "In Shopping Centre"
+      ],
+      "Extra10": "80917513",
+      "Extra11": null,
+      "Division": "BWS",
+      "StoreNo": "5053",
+      "Name": "Darwin City",
+      "AddressLine1": "Cnr Cavenagh And Whitfield Streets",
+      "Suburb": "Darwin",
+      "State": "NT",
+      "Postcode": "800",
+      "Latitude": "-12.4602",
+      "Longitude": "130.8405",
+      "GeoLevel": "0",
+      "Distance": "",
+      "Phone": "(08) 8995 9332",
+      "TotalItemsInCart": 0,
+      "AvailableItems": 0,
+      "UnavailableItems": 0,
+      "StoreType": "Partner Store"
+    },
+    {
+      "Manager": null,
+      "GmtZone": "9:30",
+      "Country": "Australia",
+      "Extra5": "5911",
+      "DaysToFulfillBackOrder": 7,
+      "Radius": null,
+      "IsClickAndCollectEnabled": true,
+      "IsDeliveryEnabled": false,
+      "CanDeliverToLocation": false,
+      "IsBackorderEnabled": true,
+      "IsOpeningHoursOverridden": false,
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "10:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "10:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "10:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "10:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "10:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "CLOSED"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "10:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "10:00 AM - 8:00 PM"
+        }
+      ],
+      "Facilities": [
+        "SYS- BWS Collect",
+        "In Shopping Centre",
+        "SYS- Chilled BWS Collect"
+      ],
+      "Extra10": "80903527",
+      "Extra11": null,
+      "Division": "BWS",
+      "StoreNo": "5056",
+      "Name": "Leanyer",
+      "AddressLine1": "Hibiscus Shoppingtown, 8 Leanyer Drive",
+      "Suburb": "Leanyer",
+      "State": "NT",
+      "Postcode": "812",
+      "Latitude": "-12.3777",
+      "Longitude": "130.8962",
+      "GeoLevel": "0",
+      "Distance": "",
+      "Phone": "(08) 8995 9333",
+      "TotalItemsInCart": 0,
+      "AvailableItems": 0,
+      "UnavailableItems": 0,
+      "StoreType": "Partner Store"
+    },
+    {
+      "Manager": null,
+      "GmtZone": "9:30",
+      "Country": "Australia",
+      "Extra5": "5911",
+      "DaysToFulfillBackOrder": 7,
+      "Radius": null,
+      "IsClickAndCollectEnabled": true,
+      "IsDeliveryEnabled": false,
+      "CanDeliverToLocation": false,
+      "IsBackorderEnabled": true,
+      "IsOpeningHoursOverridden": false,
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "CLOSED"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        }
+      ],
+      "Facilities": [
+        "SYS- BWS Collect",
+        "In Shopping Centre",
+        "SYS- Chilled BWS Collect"
+      ],
+      "Extra10": "80916856",
+      "Extra11": null,
+      "Division": "BWS",
+      "StoreNo": "5062",
+      "Name": "Coolalinga",
+      "AddressLine1": "Cnr Stuart Highway And Henning Road",
+      "Suburb": "Coolalinga",
+      "State": "NT",
+      "Postcode": "839",
+      "Latitude": "-12.52515911",
+      "Longitude": "131.0426601",
+      "GeoLevel": "0",
+      "Distance": "",
+      "Phone": "(08) 8995 9334",
+      "TotalItemsInCart": 0,
+      "AvailableItems": 0,
+      "UnavailableItems": 0,
+      "StoreType": "Partner Store"
+    },
+    {
+      "Manager": null,
+      "GmtZone": "9:30",
+      "Country": "Australia",
+      "Extra5": "5911",
+      "DaysToFulfillBackOrder": 7,
+      "Radius": null,
+      "IsClickAndCollectEnabled": true,
+      "IsDeliveryEnabled": false,
+      "CanDeliverToLocation": false,
+      "IsBackorderEnabled": true,
+      "IsOpeningHoursOverridden": false,
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "CLOSED"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        }
+      ],
+      "Facilities": [
+        "SYS- BWS Collect",
+        "SYS- Chilled BWS Collect"
+      ],
+      "Extra10": "80901630",
+      "Extra11": null,
+      "Division": "BWS",
+      "StoreNo": "5064",
+      "Name": "Nightcliff",
+      "AddressLine1": "159 Dick Ward Drive",
+      "Suburb": "Coconut Grove",
+      "State": "NT",
+      "Postcode": "810",
+      "Latitude": "-12.3902",
+      "Longitude": "130.8512",
+      "GeoLevel": "0",
+      "Distance": "",
+      "Phone": "(08) 8995 9335",
+      "TotalItemsInCart": 0,
+      "AvailableItems": 0,
+      "UnavailableItems": 0,
+      "StoreType": "Partner Store"
+    },
+    {
+      "Manager": null,
+      "GmtZone": "9:30",
+      "Country": "Australia",
+      "Extra5": "5911",
+      "DaysToFulfillBackOrder": 7,
+      "Radius": null,
+      "IsClickAndCollectEnabled": true,
+      "IsDeliveryEnabled": false,
+      "CanDeliverToLocation": false,
+      "IsBackorderEnabled": true,
+      "IsOpeningHoursOverridden": false,
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "CLOSED"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        }
+      ],
+      "Facilities": [
+        "SYS- BWS Collect",
+        "In Shopping Centre",
+        "SYS- Chilled BWS Collect"
+      ],
+      "Extra10": "81019420/FLL1004",
+      "Extra11": null,
+      "Division": "BWS",
+      "StoreNo": "5065",
+      "Name": "Palmerston Gateways",
+      "AddressLine1": "Cnr Roystonea Ave & Yarrawonga Rd",
+      "Suburb": "Durack",
+      "State": "NT",
+      "Postcode": "830",
+      "Latitude": "-12.47289023",
+      "Longitude": "130.9830861",
+      "GeoLevel": "0",
+      "Distance": "",
+      "Phone": "(08) 8995 9336",
+      "TotalItemsInCart": 0,
+      "AvailableItems": 0,
+      "UnavailableItems": 0,
+      "StoreType": "Partner Store"
+    },
+    {
+      "Manager": null,
+      "GmtZone": "9:30",
+      "Country": "Australia",
+      "Extra5": "5911",
+      "DaysToFulfillBackOrder": 7,
+      "Radius": null,
+      "IsClickAndCollectEnabled": true,
+      "IsDeliveryEnabled": false,
+      "CanDeliverToLocation": false,
+      "IsBackorderEnabled": true,
+      "IsOpeningHoursOverridden": false,
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "10:00 AM - 7:00 PM"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "10:00 AM - 7:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "10:00 AM - 7:00 PM"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "10:00 AM - 7:00 PM"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "10:00 AM - 7:00 PM"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "CLOSED"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "10:00 AM - 7:00 PM"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "10:00 AM - 7:00 PM"
+        }
+      ],
+      "Facilities": [
+        "In Shopping Centre",
+        "SYS- BWS Collect",
+        "SYS- Chilled BWS Collect"
+      ],
+      "Extra10": "80904482",
+      "Extra11": null,
+      "Division": "BWS",
+      "StoreNo": "5071",
+      "Name": "Karama",
+      "AddressLine1": "37 Kalymnos Drive",
+      "Suburb": "Karama",
+      "State": "NT",
+      "Postcode": "812",
+      "Latitude": "-12.4009",
+      "Longitude": "130.9157",
+      "GeoLevel": "0",
+      "Distance": "",
+      "Phone": "(08) 8995 9337",
+      "TotalItemsInCart": 0,
+      "AvailableItems": 0,
+      "UnavailableItems": 0,
+      "StoreType": "Partner Store"
+    },
+    {
+      "Manager": null,
+      "GmtZone": "9:30",
+      "Country": "Australia",
+      "Extra5": "5911",
+      "DaysToFulfillBackOrder": 7,
+      "Radius": null,
+      "IsClickAndCollectEnabled": true,
+      "IsDeliveryEnabled": false,
+      "CanDeliverToLocation": false,
+      "IsBackorderEnabled": true,
+      "IsOpeningHoursOverridden": false,
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "CLOSED"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        }
+      ],
+      "Facilities": [
+        "SYS- Chilled BWS Collect",
+        "In Shopping Centre",
+        "SYS- BWS Collect"
+      ],
+      "Extra10": "80919180",
+      "Extra11": null,
+      "Division": "BWS",
+      "StoreNo": "5075",
+      "Name": "Bakewell",
+      "AddressLine1": "Cnr Chung Wah Terrace & Lambrick Avenue",
+      "Suburb": "Bakewell",
+      "State": "NT",
+      "Postcode": "832",
+      "Latitude": "-12.499",
+      "Longitude": "130.9867",
+      "GeoLevel": "0",
+      "Distance": "",
+      "Phone": "(08) 8995 9338",
+      "TotalItemsInCart": 0,
+      "AvailableItems": 0,
+      "UnavailableItems": 0,
+      "StoreType": "Partner Store"
+    },
+    {
+      "Manager": null,
+      "GmtZone": "9:30",
+      "Country": "Australia",
+      "Extra5": "5911",
+      "DaysToFulfillBackOrder": 7,
+      "Radius": null,
+      "IsClickAndCollectEnabled": true,
+      "IsDeliveryEnabled": false,
+      "CanDeliverToLocation": false,
+      "IsBackorderEnabled": true,
+      "IsOpeningHoursOverridden": false,
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        }
+      ],
+      "Facilities": [
+        "Drive Thru",
+        "SYS- BWS Collect",
+        "SYS- Chilled BWS Collect"
+      ],
+      "Extra10": "80315200",
+      "Extra11": null,
+      "Division": "BWS",
+      "StoreNo": "5100",
+      "Name": "Beachfront",
+      "AddressLine1": "342 Casuarina Drive",
+      "Suburb": "Darwin",
+      "State": "NT",
+      "Postcode": "810",
+      "Latitude": "-12.37662039",
+      "Longitude": "130.8583525",
+      "GeoLevel": "0",
+      "Distance": "",
+      "Phone": "889959339",
+      "TotalItemsInCart": 0,
+      "AvailableItems": 0,
+      "UnavailableItems": 0,
+      "StoreType": null
+    },
+    {
+      "Manager": null,
+      "GmtZone": "9:30",
+      "Country": "Australia",
+      "Extra5": "5911",
+      "DaysToFulfillBackOrder": 7,
+      "Radius": null,
+      "IsClickAndCollectEnabled": true,
+      "IsDeliveryEnabled": false,
+      "CanDeliverToLocation": false,
+      "IsBackorderEnabled": true,
+      "IsOpeningHoursOverridden": false,
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "10:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "10:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "10:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "10:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "9:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "10:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "10:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "10:00 AM - 8:00 PM"
+        }
+      ],
+      "Facilities": [
+        "SYS- BWS Collect",
+        "SYS- Chilled BWS Collect",
+        "Drive Thru"
+      ],
+      "Extra10": "80315250",
+      "Extra11": null,
+      "Division": "BWS",
+      "StoreNo": "5358",
+      "Name": "Parap",
+      "AddressLine1": "15 Parap Road",
+      "Suburb": "Parap",
+      "State": "NT",
+      "Postcode": "820",
+      "Latitude": "-12.4335",
+      "Longitude": "130.8431",
+      "GeoLevel": "0",
+      "Distance": "",
+      "Phone": "(08) 8981 9701",
+      "TotalItemsInCart": 0,
+      "AvailableItems": 0,
+      "UnavailableItems": 0,
+      "StoreType": "Drive"
+    },
+    {
+      "Manager": null,
+      "GmtZone": "9:30",
+      "Country": "Australia",
+      "Extra5": "5911",
+      "DaysToFulfillBackOrder": 7,
+      "Radius": null,
+      "IsClickAndCollectEnabled": true,
+      "IsDeliveryEnabled": false,
+      "CanDeliverToLocation": false,
+      "IsBackorderEnabled": true,
+      "IsOpeningHoursOverridden": false,
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "10:00 AM - 7:00 PM"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "10:00 AM - 7:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "10:00 AM - 7:00 PM"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "10:00 AM - 7:00 PM"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "10:00 AM - 7:00 PM"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "10:00 AM - 7:00 PM"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "10:00 AM - 7:00 PM"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "10:00 AM - 7:00 PM"
+        }
+      ],
+      "Facilities": [
+        "SYS- Chilled BWS Collect",
+        "Drive Thru",
+        "SYS- BWS Collect"
+      ],
+      "Extra10": "80303220",
+      "Extra11": null,
+      "Division": "BWS",
+      "StoreNo": "5738",
+      "Name": "Palmerston Drive",
+      "AddressLine1": "110 Chung Wah Terrace",
+      "Suburb": "Palmerston",
+      "State": "NT",
+      "Postcode": "830",
+      "Latitude": "-12.4803",
+      "Longitude": "130.9839",
+      "GeoLevel": "0",
+      "Distance": "",
+      "Phone": "(08) 8932 4581",
+      "TotalItemsInCart": 0,
+      "AvailableItems": 0,
+      "UnavailableItems": 0,
+      "StoreType": "Drive"
+    },
+    {
+      "Manager": null,
+      "GmtZone": "9:30",
+      "Country": "Australia",
+      "Extra5": "5911",
+      "DaysToFulfillBackOrder": 7,
+      "Radius": null,
+      "IsClickAndCollectEnabled": true,
+      "IsDeliveryEnabled": false,
+      "CanDeliverToLocation": false,
+      "IsBackorderEnabled": true,
+      "IsOpeningHoursOverridden": false,
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "10:00 AM - 10:00 PM"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "10:00 AM - 10:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "10:00 AM - 10:00 PM"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "10:00 AM - 10:00 PM"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "9:00 AM - 10:00 PM"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "10:00 AM - 10:00 PM"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "10:00 AM - 10:00 PM"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "10:00 AM - 10:00 PM"
+        }
+      ],
+      "Facilities": [
+        "SYS- Chilled BWS Collect",
+        "SYS- BWS Collect",
+        "Drive Thru"
+      ],
+      "Extra10": "80100307",
+      "Extra11": null,
+      "Division": "BWS",
+      "StoreNo": "5755",
+      "Name": "Airport Tavern Drive",
+      "AddressLine1": "227 McMillans Road",
+      "Suburb": "Jingili",
+      "State": "NT",
+      "Postcode": "810",
+      "Latitude": "-12.3944",
+      "Longitude": "130.8773",
+      "GeoLevel": "0",
+      "Distance": "",
+      "Phone": "(08) 8948 3767",
+      "TotalItemsInCart": 0,
+      "AvailableItems": 0,
+      "UnavailableItems": 0,
+      "StoreType": "Drive"
+    },
+    {
+      "Manager": null,
+      "GmtZone": "9:30",
+      "Country": "Australia",
+      "Extra5": "5911",
+      "DaysToFulfillBackOrder": 7,
+      "Radius": null,
+      "IsClickAndCollectEnabled": false,
+      "IsDeliveryEnabled": false,
+      "CanDeliverToLocation": false,
+      "IsBackorderEnabled": false,
+      "IsOpeningHoursOverridden": false,
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        }
+      ],
+      "Facilities": [],
+      "Extra10": "80319095",
+      "Extra11": null,
+      "Division": "BWS",
+      "StoreNo": "5768",
+      "Name": "Bell Bar",
+      "AddressLine1": "1/127 Flynn Circuit",
+      "Suburb": "Bellamack",
+      "State": "NT",
+      "Postcode": "832",
+      "Latitude": "-12.513",
+      "Longitude": "130.9795",
+      "GeoLevel": "0",
+      "Distance": "",
+      "Phone": "(08) 8932 2651",
+      "TotalItemsInCart": 0,
+      "AvailableItems": 0,
+      "UnavailableItems": 0,
+      "StoreType": "Standalone"
+    },
+    {
+      "Manager": null,
+      "GmtZone": "9:30",
+      "Country": "Australia",
+      "Extra5": "6911",
+      "DaysToFulfillBackOrder": 6,
+      "Radius": null,
+      "IsClickAndCollectEnabled": true,
+      "IsDeliveryEnabled": false,
+      "CanDeliverToLocation": false,
+      "IsBackorderEnabled": true,
+      "IsOpeningHoursOverridden": false,
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Saturday",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "10:00 AM - 9:00 PM"
+        }
+      ],
+      "Facilities": [
+        "SYS- BWS Collect",
+        "Drive Thru",
+        "SYS- Chilled BWS Collect"
+      ],
+      "Extra10": "80101040/FLL",
+      "Extra11": null,
+      "Division": "BWS",
+      "StoreNo": "6904",
+      "Name": "The Cavenagh Drive",
+      "AddressLine1": "12 Cavenagh Street",
+      "Suburb": "Darwin City",
+      "State": "NT",
+      "Postcode": "800",
+      "Latitude": "-12.46246809",
+      "Longitude": "130.844128",
+      "GeoLevel": "0",
+      "Distance": "",
+      "Phone": "(08) 8995 9343",
+      "TotalItemsInCart": 0,
+      "AvailableItems": 0,
+      "UnavailableItems": 0,
+      "StoreType": null
+    }
+  ],
+  "DeliveryStores": []
+}
