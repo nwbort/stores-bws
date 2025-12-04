@@ -15,14 +15,10 @@
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "9:00 AM - 7:00 PM"
-        },
-        {
-          "Day": "Tomorrow",
           "OpenHour": "9:00 AM - 8:00 PM"
         },
         {
-          "Day": "Friday",
+          "Day": "Tomorrow",
           "OpenHour": "9:00 AM - 8:00 PM"
         },
         {
@@ -44,11 +40,15 @@
         {
           "Day": "Wednesday",
           "OpenHour": "9:00 AM - 7:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 8:00 PM"
         }
       ],
       "Facilities": [
-        "SYS- BWS Collect",
-        "SYS- Chilled BWS Collect"
+        "SYS- Chilled BWS Collect",
+        "SYS- BWS Collect"
       ],
       "Extra10": "57701534",
       "Extra11": null,
@@ -88,10 +88,6 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 8:00 PM"
-        },
-        {
-          "Day": "Friday",
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
@@ -113,11 +109,15 @@
         {
           "Day": "Wednesday",
           "OpenHour": "9:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 8:00 PM"
         }
       ],
       "Facilities": [
-        "In Shopping Centre",
         "SYS- BWS Collect",
+        "In Shopping Centre",
         "SYS- Chilled BWS Collect"
       ],
       "Extra10": "57704184",
@@ -154,14 +154,10 @@
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "9:00 AM - 8:00 PM"
-        },
-        {
-          "Day": "Tomorrow",
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
-          "Day": "Friday",
+          "Day": "Tomorrow",
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
@@ -183,14 +179,18 @@
         {
           "Day": "Wednesday",
           "OpenHour": "9:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 9:00 PM"
         }
       ],
       "Facilities": [
+        "In Shopping Centre",
+        "SYS- Chilled BWS Collect",
         "SYS- Express Delivery",
         "SYS-Book regardless Pack",
-        "SYS- BWS Collect",
-        "SYS- Chilled BWS Collect",
-        "In Shopping Centre"
+        "SYS- BWS Collect"
       ],
       "Extra10": "57703560",
       "Extra11": null,
@@ -233,10 +233,6 @@
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
-          "Day": "Friday",
-          "OpenHour": "9:00 AM - 9:00 PM"
-        },
-        {
           "Day": "Saturday",
           "OpenHour": "9:00 AM - 6:00 PM"
         },
@@ -255,14 +251,18 @@
         {
           "Day": "Wednesday",
           "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 9:00 PM"
         }
       ],
       "Facilities": [
+        "SYS- Chilled BWS Collect",
+        "SYS- Express Delivery",
         "SYS-Book regardless Pack",
         "In Shopping Centre",
-        "SYS- Express Delivery",
-        "SYS- BWS Collect",
-        "SYS- Chilled BWS Collect"
+        "SYS- BWS Collect"
       ],
       "Extra10": "57700033",
       "Extra11": null,
@@ -298,14 +298,10 @@
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "9:00 AM - 8:00 PM"
-        },
-        {
-          "Day": "Tomorrow",
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
-          "Day": "Friday",
+          "Day": "Tomorrow",
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
@@ -327,14 +323,18 @@
         {
           "Day": "Wednesday",
           "OpenHour": "9:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 9:00 PM"
         }
       ],
       "Facilities": [
-        "In Shopping Centre",
-        "SYS- BWS Collect",
+        "SYS-Book regardless Pack",
         "SYS- Express Delivery",
         "SYS- Chilled BWS Collect",
-        "SYS-Book regardless Pack"
+        "SYS- BWS Collect",
+        "In Shopping Centre"
       ],
       "Extra10": "57701356",
       "Extra11": null,
@@ -377,10 +377,6 @@
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
-          "Day": "Friday",
-          "OpenHour": "9:00 AM - 9:00 PM"
-        },
-        {
           "Day": "Saturday",
           "OpenHour": "9:00 AM - 9:00 PM"
         },
@@ -399,12 +395,16 @@
         {
           "Day": "Wednesday",
           "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 9:00 PM"
         }
       ],
       "Facilities": [
-        "SYS- BWS Collect",
         "In Shopping Centre",
-        "SYS- Chilled BWS Collect"
+        "SYS- Chilled BWS Collect",
+        "SYS- BWS Collect"
       ],
       "Extra10": "57701681",
       "Extra11": null,
@@ -447,10 +447,6 @@
           "OpenHour": "9:00 AM - 8:00 PM"
         },
         {
-          "Day": "Friday",
-          "OpenHour": "9:00 AM - 8:00 PM"
-        },
-        {
           "Day": "Saturday",
           "OpenHour": "9:00 AM - 8:00 PM"
         },
@@ -469,11 +465,15 @@
         {
           "Day": "Wednesday",
           "OpenHour": "9:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 8:00 PM"
         }
       ],
       "Facilities": [
-        "SYS- BWS Collect",
         "SYS- Chilled BWS Collect",
+        "SYS- BWS Collect",
         "In Shopping Centre"
       ],
       "Extra10": "57701071",
@@ -517,10 +517,6 @@
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
-          "Day": "Friday",
-          "OpenHour": "9:00 AM - 9:00 PM"
-        },
-        {
           "Day": "Saturday",
           "OpenHour": "9:00 AM - 8:00 PM"
         },
@@ -539,11 +535,15 @@
         {
           "Day": "Wednesday",
           "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 9:00 PM"
         }
       ],
       "Facilities": [
-        "SYS- Chilled BWS Collect",
-        "SYS- BWS Collect"
+        "SYS- BWS Collect",
+        "SYS- Chilled BWS Collect"
       ],
       "Extra10": "57700384",
       "Extra11": null,
@@ -586,10 +586,6 @@
           "OpenHour": "9:00 AM - 8:00 PM"
         },
         {
-          "Day": "Friday",
-          "OpenHour": "9:00 AM - 8:00 PM"
-        },
-        {
           "Day": "Saturday",
           "OpenHour": "9:00 AM - 8:00 PM"
         },
@@ -608,12 +604,16 @@
         {
           "Day": "Wednesday",
           "OpenHour": "9:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 8:00 PM"
         }
       ],
       "Facilities": [
+        "In Shopping Centre",
         "SYS- Chilled BWS Collect",
-        "SYS- BWS Collect",
-        "In Shopping Centre"
+        "SYS- BWS Collect"
       ],
       "Extra10": "57700122",
       "Extra11": null,
@@ -656,10 +656,6 @@
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
-          "Day": "Friday",
-          "OpenHour": "9:00 AM - 9:00 PM"
-        },
-        {
           "Day": "Saturday",
           "OpenHour": "9:00 AM - 9:00 PM"
         },
@@ -677,6 +673,10 @@
         },
         {
           "Day": "Wednesday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Thursday",
           "OpenHour": "9:00 AM - 9:00 PM"
         }
       ],
@@ -725,10 +725,6 @@
           "OpenHour": "9:00 AM - 8:55 PM"
         },
         {
-          "Day": "Friday",
-          "OpenHour": "9:00 AM - 8:55 PM"
-        },
-        {
           "Day": "Saturday",
           "OpenHour": "9:00 AM - 5:55 PM"
         },
@@ -747,12 +743,16 @@
         {
           "Day": "Wednesday",
           "OpenHour": "9:00 AM - 8:55 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 8:55 PM"
         }
       ],
       "Facilities": [
+        "SYS- BWS Collect",
         "SYS-Book regardless Pack",
         "In Shopping Centre",
-        "SYS- BWS Collect",
         "SYS- Chilled BWS Collect"
       ],
       "Extra10": "57701542",
@@ -796,10 +796,6 @@
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
-          "Day": "Friday",
-          "OpenHour": "9:00 AM - 9:00 PM"
-        },
-        {
           "Day": "Saturday",
           "OpenHour": "9:00 AM - 5:00 PM"
         },
@@ -818,14 +814,18 @@
         {
           "Day": "Wednesday",
           "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 9:00 PM"
         }
       ],
       "Facilities": [
-        "SYS- BWS Collect",
-        "SYS-Book regardless Pack",
-        "SYS- Express Delivery",
         "In Shopping Centre",
-        "SYS- Chilled BWS Collect"
+        "SYS- Chilled BWS Collect",
+        "SYS- BWS Collect",
+        "SYS- Express Delivery",
+        "SYS-Book regardless Pack"
       ],
       "Extra10": "57701217",
       "Extra11": null,
@@ -868,10 +868,6 @@
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
-          "Day": "Friday",
-          "OpenHour": "9:00 AM - 9:00 PM"
-        },
-        {
           "Day": "Saturday",
           "OpenHour": "9:00 AM - 7:00 PM"
         },
@@ -890,13 +886,17 @@
         {
           "Day": "Wednesday",
           "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 9:00 PM"
         }
       ],
       "Facilities": [
-        "SYS- Express Delivery",
-        "SYS- Chilled BWS Collect",
         "SYS-Book regardless Pack",
-        "SYS- BWS Collect"
+        "SYS- BWS Collect",
+        "SYS- Chilled BWS Collect",
+        "SYS- Express Delivery"
       ],
       "Extra10": "57700538",
       "Extra11": null,
@@ -939,10 +939,6 @@
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
-          "Day": "Friday",
-          "OpenHour": "9:00 AM - 9:00 PM"
-        },
-        {
           "Day": "Saturday",
           "OpenHour": "9:00 AM - 5:30 PM"
         },
@@ -961,14 +957,18 @@
         {
           "Day": "Wednesday",
           "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 9:00 PM"
         }
       ],
       "Facilities": [
         "In Shopping Centre",
-        "SYS- Chilled BWS Collect",
-        "SYS- Express Delivery",
+        "SYS- BWS Collect",
         "SYS-Book regardless Pack",
-        "SYS- BWS Collect"
+        "SYS- Express Delivery",
+        "SYS- Chilled BWS Collect"
       ],
       "Extra10": "57700758",
       "Extra11": null,
@@ -1011,10 +1011,6 @@
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
-          "Day": "Friday",
-          "OpenHour": "9:00 AM - 9:00 PM"
-        },
-        {
           "Day": "Saturday",
           "OpenHour": "8:00 AM - 5:00 PM"
         },
@@ -1033,13 +1029,17 @@
         {
           "Day": "Wednesday",
           "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 9:00 PM"
         }
       ],
       "Facilities": [
-        "SYS- BWS Collect",
         "SYS- Chilled BWS Collect",
-        "SYS-Book regardless Pack",
-        "In Shopping Centre"
+        "SYS- BWS Collect",
+        "In Shopping Centre",
+        "SYS-Book regardless Pack"
       ],
       "Extra10": "57701500",
       "Extra11": null,
@@ -1075,14 +1075,10 @@
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "9:00 AM - 8:00 PM"
-        },
-        {
-          "Day": "Tomorrow",
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
-          "Day": "Friday",
+          "Day": "Tomorrow",
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
@@ -1104,14 +1100,18 @@
         {
           "Day": "Wednesday",
           "OpenHour": "9:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 9:00 PM"
         }
       ],
       "Facilities": [
+        "In Shopping Centre",
         "SYS-Book regardless Pack",
-        "SYS- Chilled BWS Collect",
-        "SYS- BWS Collect",
         "SYS- Express Delivery",
-        "In Shopping Centre"
+        "SYS- Chilled BWS Collect",
+        "SYS- BWS Collect"
       ],
       "Extra10": "57704867",
       "Extra11": null,
@@ -1154,10 +1154,6 @@
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
-          "Day": "Friday",
-          "OpenHour": "9:00 AM - 9:00 PM"
-        },
-        {
           "Day": "Saturday",
           "OpenHour": "9:00 AM - 9:00 PM"
         },
@@ -1175,6 +1171,10 @@
         },
         {
           "Day": "Wednesday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Thursday",
           "OpenHour": "9:00 AM - 9:00 PM"
         }
       ],
@@ -1222,10 +1222,6 @@
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
-          "Day": "Friday",
-          "OpenHour": "9:00 AM - 9:00 PM"
-        },
-        {
           "Day": "Saturday",
           "OpenHour": "9:00 AM - 5:00 PM"
         },
@@ -1243,6 +1239,10 @@
         },
         {
           "Day": "Wednesday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Thursday",
           "OpenHour": "9:00 AM - 9:00 PM"
         }
       ],
@@ -1292,10 +1292,6 @@
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
-          "Day": "Friday",
-          "OpenHour": "9:00 AM - 9:00 PM"
-        },
-        {
           "Day": "Saturday",
           "OpenHour": "9:00 AM - 5:00 PM"
         },
@@ -1314,14 +1310,18 @@
         {
           "Day": "Wednesday",
           "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 9:00 PM"
         }
       ],
       "Facilities": [
-        "In Shopping Centre",
-        "SYS- Express Delivery",
+        "SYS-Book regardless Pack",
         "SYS- BWS Collect",
         "SYS- Chilled BWS Collect",
-        "SYS-Book regardless Pack"
+        "In Shopping Centre",
+        "SYS- Express Delivery"
       ],
       "Extra10": "57701526",
       "Extra11": null,
@@ -1357,14 +1357,10 @@
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "9:00 AM - 8:00 PM"
-        },
-        {
-          "Day": "Tomorrow",
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
-          "Day": "Friday",
+          "Day": "Tomorrow",
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
@@ -1386,11 +1382,15 @@
         {
           "Day": "Wednesday",
           "OpenHour": "9:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 9:00 PM"
         }
       ],
       "Facilities": [
-        "SYS- Chilled BWS Collect",
-        "SYS- BWS Collect"
+        "SYS- BWS Collect",
+        "SYS- Chilled BWS Collect"
       ],
       "Extra10": "57701657",
       "Extra11": null,
@@ -1433,10 +1433,6 @@
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
-          "Day": "Friday",
-          "OpenHour": "9:00 AM - 9:00 PM"
-        },
-        {
           "Day": "Saturday",
           "OpenHour": "9:00 AM - 5:00 PM"
         },
@@ -1455,13 +1451,17 @@
         {
           "Day": "Wednesday",
           "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 9:00 PM"
         }
       ],
       "Facilities": [
-        "In Shopping Centre",
-        "SYS- BWS Collect",
         "SYS-Book regardless Pack",
-        "SYS- Chilled BWS Collect"
+        "SYS- Chilled BWS Collect",
+        "SYS- BWS Collect",
+        "In Shopping Centre"
       ],
       "Extra10": "57704338",
       "Extra11": null,
@@ -1504,10 +1504,6 @@
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
-          "Day": "Friday",
-          "OpenHour": "9:00 AM - 9:00 PM"
-        },
-        {
           "Day": "Saturday",
           "OpenHour": "9:00 AM - 5:00 PM"
         },
@@ -1526,14 +1522,18 @@
         {
           "Day": "Wednesday",
           "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 9:00 PM"
         }
       ],
       "Facilities": [
-        "SYS-Book regardless Pack",
-        "In Shopping Centre",
         "SYS- Express Delivery",
-        "SYS- Chilled BWS Collect",
-        "SYS- BWS Collect"
+        "SYS- BWS Collect",
+        "In Shopping Centre",
+        "SYS-Book regardless Pack",
+        "SYS- Chilled BWS Collect"
       ],
       "Extra10": "57701102",
       "Extra11": null,
@@ -1576,10 +1576,6 @@
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
-          "Day": "Friday",
-          "OpenHour": "9:00 AM - 9:00 PM"
-        },
-        {
           "Day": "Saturday",
           "OpenHour": "9:00 AM - 9:00 PM"
         },
@@ -1598,13 +1594,17 @@
         {
           "Day": "Wednesday",
           "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 9:00 PM"
         }
       ],
       "Facilities": [
         "SYS-Book regardless Pack",
-        "SYS- BWS Collect",
-        "SYS- Chilled BWS Collect",
         "SYS- Express Delivery",
+        "SYS- Chilled BWS Collect",
+        "SYS- BWS Collect",
         "In Shopping Centre"
       ],
       "Extra10": "57702409",
@@ -1648,10 +1648,6 @@
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
-          "Day": "Friday",
-          "OpenHour": "9:00 AM - 9:00 PM"
-        },
-        {
           "Day": "Saturday",
           "OpenHour": "9:00 AM - 9:00 PM"
         },
@@ -1669,6 +1665,10 @@
         },
         {
           "Day": "Wednesday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Thursday",
           "OpenHour": "9:00 AM - 9:00 PM"
         }
       ],
@@ -1714,10 +1714,6 @@
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
-          "Day": "Friday",
-          "OpenHour": "9:00 AM - 9:00 PM"
-        },
-        {
           "Day": "Saturday",
           "OpenHour": "8:00 AM - 9:00 PM"
         },
@@ -1736,11 +1732,15 @@
         {
           "Day": "Wednesday",
           "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 9:00 PM"
         }
       ],
       "Facilities": [
-        "SYS- Chilled BWS Collect",
         "In Shopping Centre",
+        "SYS- Chilled BWS Collect",
         "SYS- BWS Collect"
       ],
       "Extra10": "57701136",
@@ -1784,10 +1784,6 @@
           "OpenHour": "9:00 AM - 8:00 PM"
         },
         {
-          "Day": "Friday",
-          "OpenHour": "9:00 AM - 8:00 PM"
-        },
-        {
           "Day": "Saturday",
           "OpenHour": "9:00 AM - 8:00 PM"
         },
@@ -1806,12 +1802,16 @@
         {
           "Day": "Wednesday",
           "OpenHour": "9:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 8:00 PM"
         }
       ],
       "Facilities": [
-        "SYS- Chilled BWS Collect",
+        "SYS- BWS Collect",
         "In Shopping Centre",
-        "SYS- BWS Collect"
+        "SYS- Chilled BWS Collect"
       ],
       "Extra10": "57701186",
       "Extra11": null,
@@ -1854,10 +1854,6 @@
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
-          "Day": "Friday",
-          "OpenHour": "9:00 AM - 9:00 PM"
-        },
-        {
           "Day": "Saturday",
           "OpenHour": "9:00 AM - 5:00 PM"
         },
@@ -1876,12 +1872,16 @@
         {
           "Day": "Wednesday",
           "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 9:00 PM"
         }
       ],
       "Facilities": [
         "SYS- Chilled BWS Collect",
-        "SYS- Express Delivery",
         "In Shopping Centre",
+        "SYS- Express Delivery",
         "SYS-Book regardless Pack",
         "SYS- BWS Collect"
       ],
@@ -1926,10 +1926,6 @@
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
-          "Day": "Friday",
-          "OpenHour": "9:00 AM - 9:00 PM"
-        },
-        {
           "Day": "Saturday",
           "OpenHour": "9:00 AM - 9:00 PM"
         },
@@ -1948,11 +1944,15 @@
         {
           "Day": "Wednesday",
           "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 9:00 PM"
         }
       ],
       "Facilities": [
-        "SYS- BWS Collect",
-        "SYS- Chilled BWS Collect"
+        "SYS- Chilled BWS Collect",
+        "SYS- BWS Collect"
       ],
       "Extra10": "57701479",
       "Extra11": null,
@@ -1995,10 +1995,6 @@
           "OpenHour": "8:00 AM - 8:00 PM"
         },
         {
-          "Day": "Friday",
-          "OpenHour": "8:00 AM - 8:00 PM"
-        },
-        {
           "Day": "Saturday",
           "OpenHour": "8:00 AM - 8:00 PM"
         },
@@ -2017,11 +2013,15 @@
         {
           "Day": "Wednesday",
           "OpenHour": "8:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "8:00 AM - 8:00 PM"
         }
       ],
       "Facilities": [
-        "SYS- Chilled BWS Collect",
-        "SYS- BWS Collect"
+        "SYS- BWS Collect",
+        "SYS- Chilled BWS Collect"
       ],
       "Extra10": "57700130",
       "Extra11": null,
@@ -2064,10 +2064,6 @@
           "OpenHour": "9:00 AM - 8:00 PM"
         },
         {
-          "Day": "Friday",
-          "OpenHour": "9:00 AM - 8:00 PM"
-        },
-        {
           "Day": "Saturday",
           "OpenHour": "9:00 AM - 8:00 PM"
         },
@@ -2086,11 +2082,15 @@
         {
           "Day": "Wednesday",
           "OpenHour": "9:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 8:00 PM"
         }
       ],
       "Facilities": [
-        "SYS- BWS Collect",
-        "SYS- Chilled BWS Collect"
+        "SYS- Chilled BWS Collect",
+        "SYS- BWS Collect"
       ],
       "Extra10": "57700114",
       "Extra11": null,
@@ -2133,10 +2133,6 @@
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
-          "Day": "Friday",
-          "OpenHour": "9:00 AM - 9:00 PM"
-        },
-        {
           "Day": "Saturday",
           "OpenHour": "9:00 AM - 5:00 PM"
         },
@@ -2155,13 +2151,17 @@
         {
           "Day": "Wednesday",
           "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 9:00 PM"
         }
       ],
       "Facilities": [
-        "In Shopping Centre",
         "SYS- Chilled BWS Collect",
         "SYS-Book regardless Pack",
-        "SYS- BWS Collect"
+        "SYS- BWS Collect",
+        "In Shopping Centre"
       ],
       "Extra10": "57701429",
       "Extra11": null,
@@ -2197,14 +2197,10 @@
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "9:00 AM - 8:00 PM"
-        },
-        {
-          "Day": "Tomorrow",
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
-          "Day": "Friday",
+          "Day": "Tomorrow",
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
@@ -2226,12 +2222,16 @@
         {
           "Day": "Wednesday",
           "OpenHour": "9:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 9:00 PM"
         }
       ],
       "Facilities": [
-        "SYS- BWS Collect",
         "SYS- Express Delivery",
         "SYS- Chilled BWS Collect",
+        "SYS- BWS Collect",
         "In Shopping Centre"
       ],
       "Extra10": "57702001",
@@ -2272,10 +2272,6 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 8:00 PM"
-        },
-        {
-          "Day": "Friday",
           "OpenHour": "8:00 AM - 8:00 PM"
         },
         {
@@ -2296,6 +2292,10 @@
         },
         {
           "Day": "Wednesday",
+          "OpenHour": "9:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Thursday",
           "OpenHour": "9:00 AM - 8:00 PM"
         }
       ],
@@ -2344,10 +2344,6 @@
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
-          "Day": "Friday",
-          "OpenHour": "9:00 AM - 9:00 PM"
-        },
-        {
           "Day": "Saturday",
           "OpenHour": "9:00 AM - 8:00 PM"
         },
@@ -2366,14 +2362,18 @@
         {
           "Day": "Wednesday",
           "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 9:00 PM"
         }
       ],
       "Facilities": [
-        "In Shopping Centre",
         "SYS-Book regardless Pack",
-        "SYS- Chilled BWS Collect",
+        "SYS- BWS Collect",
+        "In Shopping Centre",
         "SYS- Express Delivery",
-        "SYS- BWS Collect"
+        "SYS- Chilled BWS Collect"
       ],
       "Extra10": "57701306",
       "Extra11": null,
@@ -2416,10 +2416,6 @@
           "OpenHour": "8:00 AM - 9:00 PM"
         },
         {
-          "Day": "Friday",
-          "OpenHour": "8:00 AM - 9:00 PM"
-        },
-        {
           "Day": "Saturday",
           "OpenHour": "8:00 AM - 5:00 PM"
         },
@@ -2438,13 +2434,17 @@
         {
           "Day": "Wednesday",
           "OpenHour": "8:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "8:00 AM - 9:00 PM"
         }
       ],
       "Facilities": [
-        "SYS- Chilled BWS Collect",
         "SYS- Express Delivery",
-        "SYS-Book regardless Pack",
         "SYS- BWS Collect",
+        "SYS-Book regardless Pack",
+        "SYS- Chilled BWS Collect",
         "In Shopping Centre"
       ],
       "Extra10": "57703976",
@@ -2488,10 +2488,6 @@
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
-          "Day": "Friday",
-          "OpenHour": "9:00 AM - 9:00 PM"
-        },
-        {
           "Day": "Saturday",
           "OpenHour": "9:00 AM - 7:00 PM"
         },
@@ -2510,14 +2506,18 @@
         {
           "Day": "Wednesday",
           "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 9:00 PM"
         }
       ],
       "Facilities": [
-        "SYS-Book regardless Pack",
         "In Shopping Centre",
+        "SYS- Chilled BWS Collect",
         "SYS- BWS Collect",
         "SYS- Express Delivery",
-        "SYS- Chilled BWS Collect"
+        "SYS-Book regardless Pack"
       ],
       "Extra10": "57705122",
       "Extra11": null,
@@ -2560,10 +2560,6 @@
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
-          "Day": "Friday",
-          "OpenHour": "9:00 AM - 9:00 PM"
-        },
-        {
           "Day": "Saturday",
           "OpenHour": "9:00 AM - 5:00 PM"
         },
@@ -2582,13 +2578,17 @@
         {
           "Day": "Wednesday",
           "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 9:00 PM"
         }
       ],
       "Facilities": [
-        "In Shopping Centre",
+        "SYS- Chilled BWS Collect",
         "SYS- BWS Collect",
         "SYS-Book regardless Pack",
-        "SYS- Chilled BWS Collect"
+        "In Shopping Centre"
       ],
       "Extra10": "57701283",
       "Extra11": null,
@@ -2631,10 +2631,6 @@
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
-          "Day": "Friday",
-          "OpenHour": "9:00 AM - 9:00 PM"
-        },
-        {
           "Day": "Saturday",
           "OpenHour": "9:00 AM - 9:00 PM"
         },
@@ -2653,12 +2649,16 @@
         {
           "Day": "Wednesday",
           "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 9:00 PM"
         }
       ],
       "Facilities": [
+        "SYS- Chilled BWS Collect",
         "SYS-Book regardless Pack",
         "SYS- Express Delivery",
-        "SYS- Chilled BWS Collect",
         "SYS- BWS Collect"
       ],
       "Extra10": "57700407",
@@ -2702,10 +2702,6 @@
           "OpenHour": "9:00 AM - 8:00 PM"
         },
         {
-          "Day": "Friday",
-          "OpenHour": "9:00 AM - 8:00 PM"
-        },
-        {
           "Day": "Saturday",
           "OpenHour": "9:00 AM - 8:00 PM"
         },
@@ -2724,11 +2720,15 @@
         {
           "Day": "Wednesday",
           "OpenHour": "9:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 8:00 PM"
         }
       ],
       "Facilities": [
-        "SYS- Chilled BWS Collect",
-        "SYS- BWS Collect"
+        "SYS- BWS Collect",
+        "SYS- Chilled BWS Collect"
       ],
       "Extra10": "57701055",
       "Extra11": null,
@@ -2768,10 +2768,6 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "11:00 AM - 9:00 PM"
-        },
-        {
-          "Day": "Friday",
           "OpenHour": "11:00 AM - 11:00 PM"
         },
         {
@@ -2792,6 +2788,10 @@
         },
         {
           "Day": "Wednesday",
+          "OpenHour": "11:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Thursday",
           "OpenHour": "11:00 AM - 9:00 PM"
         }
       ],
@@ -2832,14 +2832,10 @@
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "9:00 AM - 8:00 PM"
-        },
-        {
-          "Day": "Tomorrow",
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
-          "Day": "Friday",
+          "Day": "Tomorrow",
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
@@ -2861,6 +2857,10 @@
         {
           "Day": "Wednesday",
           "OpenHour": "9:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 9:00 PM"
         }
       ],
       "Facilities": [
@@ -2908,10 +2908,6 @@
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
-          "Day": "Friday",
-          "OpenHour": "9:00 AM - 9:00 PM"
-        },
-        {
           "Day": "Saturday",
           "OpenHour": "9:00 AM - 6:00 PM"
         },
@@ -2930,11 +2926,15 @@
         {
           "Day": "Wednesday",
           "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 9:00 PM"
         }
       ],
       "Facilities": [
-        "SYS- BWS Collect",
-        "SYS- Chilled BWS Collect"
+        "SYS- Chilled BWS Collect",
+        "SYS- BWS Collect"
       ],
       "Extra10": "57002710",
       "Extra11": null,
@@ -2977,10 +2977,6 @@
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
-          "Day": "Friday",
-          "OpenHour": "9:00 AM - 9:00 PM"
-        },
-        {
           "Day": "Saturday",
           "OpenHour": "9:00 AM - 5:00 PM"
         },
@@ -2999,11 +2995,15 @@
         {
           "Day": "Wednesday",
           "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 9:00 PM"
         }
       ],
       "Facilities": [
-        "In Shopping Centre",
         "SYS- BWS Collect",
+        "In Shopping Centre",
         "SYS- Chilled BWS Collect"
       ],
       "Extra10": "57710177",
@@ -3044,10 +3044,6 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "10:00 AM - 9:00 PM"
-        },
-        {
-          "Day": "Friday",
           "OpenHour": "10:00 AM - 10:00 PM"
         },
         {
@@ -3069,12 +3065,16 @@
         {
           "Day": "Wednesday",
           "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "10:00 AM - 9:00 PM"
         }
       ],
       "Facilities": [
         "Drive Thru",
-        "SYS- Chilled BWS Collect",
-        "SYS- BWS Collect"
+        "SYS- BWS Collect",
+        "SYS- Chilled BWS Collect"
       ],
       "Extra10": "57004958",
       "Extra11": null,
@@ -3117,10 +3117,6 @@
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
-          "Day": "Friday",
-          "OpenHour": "9:00 AM - 9:00 PM"
-        },
-        {
           "Day": "Saturday",
           "OpenHour": "9:00 AM - 9:00 PM"
         },
@@ -3138,6 +3134,10 @@
         },
         {
           "Day": "Wednesday",
+          "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Thursday",
           "OpenHour": "9:00 AM - 9:00 PM"
         }
       ],
@@ -3179,14 +3179,10 @@
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "10:00 AM - 10:00 PM"
-        },
-        {
-          "Day": "Tomorrow",
           "OpenHour": "10:00 AM - 11:00 PM"
         },
         {
-          "Day": "Friday",
+          "Day": "Tomorrow",
           "OpenHour": "10:00 AM - 11:59 PM"
         },
         {
@@ -3208,11 +3204,15 @@
         {
           "Day": "Wednesday",
           "OpenHour": "10:00 AM - 10:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "10:00 AM - 11:00 PM"
         }
       ],
       "Facilities": [
-        "SYS- BWS Collect",
         "SYS- Chilled BWS Collect",
+        "SYS- BWS Collect",
         "Drive Thru"
       ],
       "Extra10": "57005263",
@@ -3249,14 +3249,10 @@
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "10:00 AM - 9:00 PM"
-        },
-        {
-          "Day": "Tomorrow",
           "OpenHour": "10:00 AM - 10:00 PM"
         },
         {
-          "Day": "Friday",
+          "Day": "Tomorrow",
           "OpenHour": "10:00 AM - 10:00 PM"
         },
         {
@@ -3278,12 +3274,16 @@
         {
           "Day": "Wednesday",
           "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "10:00 AM - 10:00 PM"
         }
       ],
       "Facilities": [
-        "SYS- BWS Collect",
         "SYS- Chilled BWS Collect",
         "SYS- Express Delivery",
+        "SYS- BWS Collect",
         "SYS-Book regardless Pack"
       ],
       "Extra10": "57004160",
@@ -3327,10 +3327,6 @@
           "OpenHour": "Closed"
         },
         {
-          "Day": "Friday",
-          "OpenHour": "Closed"
-        },
-        {
           "Day": "Saturday",
           "OpenHour": "Closed"
         },
@@ -3348,6 +3344,10 @@
         },
         {
           "Day": "Wednesday",
+          "OpenHour": "Closed"
+        },
+        {
+          "Day": "Thursday",
           "OpenHour": "Closed"
         }
       ],
@@ -3388,14 +3388,10 @@
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "9:00 AM - 8:00 PM"
-        },
-        {
-          "Day": "Tomorrow",
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
-          "Day": "Friday",
+          "Day": "Tomorrow",
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
@@ -3417,6 +3413,10 @@
         {
           "Day": "Wednesday",
           "OpenHour": "9:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 9:00 PM"
         }
       ],
       "Facilities": [
@@ -3465,10 +3465,6 @@
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
-          "Day": "Friday",
-          "OpenHour": "9:00 AM - 9:00 PM"
-        },
-        {
           "Day": "Saturday",
           "OpenHour": "9:00 AM - 5:00 PM"
         },
@@ -3487,12 +3483,16 @@
         {
           "Day": "Wednesday",
           "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 9:00 PM"
         }
       ],
       "Facilities": [
+        "SYS- BWS Collect",
         "SYS- Chilled BWS Collect",
-        "SYS-Book regardless Pack",
-        "SYS- BWS Collect"
+        "SYS-Book regardless Pack"
       ],
       "Extra10": "57709524",
       "Extra11": null,
@@ -3528,14 +3528,10 @@
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "9:00 AM - 8:00 PM"
-        },
-        {
-          "Day": "Tomorrow",
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
-          "Day": "Friday",
+          "Day": "Tomorrow",
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
@@ -3557,13 +3553,17 @@
         {
           "Day": "Wednesday",
           "OpenHour": "9:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 9:00 PM"
         }
       ],
       "Facilities": [
-        "SYS- BWS Collect",
-        "SYS-Book regardless Pack",
         "SYS- Chilled BWS Collect",
-        "SYS- Express Delivery"
+        "SYS- Express Delivery",
+        "SYS-Book regardless Pack",
+        "SYS- BWS Collect"
       ],
       "Extra10": "57700619",
       "Extra11": null,
@@ -3599,14 +3599,10 @@
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "9:00 AM - 8:00 PM"
-        },
-        {
-          "Day": "Tomorrow",
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
-          "Day": "Friday",
+          "Day": "Tomorrow",
           "OpenHour": "9:00 AM - 8:00 PM"
         },
         {
@@ -3628,12 +3624,16 @@
         {
           "Day": "Wednesday",
           "OpenHour": "9:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 9:00 PM"
         }
       ],
       "Facilities": [
         "SYS- BWS Collect",
-        "In Shopping Centre",
         "SYS-Book regardless Pack",
+        "In Shopping Centre",
         "SYS- Chilled BWS Collect"
       ],
       "Extra10": "57701631",
@@ -3677,10 +3677,6 @@
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
-          "Day": "Friday",
-          "OpenHour": "9:00 AM - 9:00 PM"
-        },
-        {
           "Day": "Saturday",
           "OpenHour": "8:30 AM - 9:00 PM"
         },
@@ -3699,13 +3695,17 @@
         {
           "Day": "Wednesday",
           "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 9:00 PM"
         }
       ],
       "Facilities": [
-        "SYS- BWS Collect",
-        "SYS- Express Delivery",
         "SYS-Book regardless Pack",
-        "SYS- Chilled BWS Collect"
+        "SYS- BWS Collect",
+        "SYS- Chilled BWS Collect",
+        "SYS- Express Delivery"
       ],
       "Extra10": "57700952",
       "Extra11": null,
@@ -3748,10 +3748,6 @@
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
-          "Day": "Friday",
-          "OpenHour": "9:00 AM - 9:00 PM"
-        },
-        {
           "Day": "Saturday",
           "OpenHour": "8:30 AM - 9:00 PM"
         },
@@ -3770,14 +3766,18 @@
         {
           "Day": "Wednesday",
           "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 9:00 PM"
         }
       ],
       "Facilities": [
-        "SYS-Book regardless Pack",
-        "SYS- BWS Collect",
+        "SYS- Chilled BWS Collect",
         "SYS- Express Delivery",
         "In Shopping Centre",
-        "SYS- Chilled BWS Collect"
+        "SYS-Book regardless Pack",
+        "SYS- BWS Collect"
       ],
       "Extra10": "57701518",
       "Extra11": null,
@@ -3813,14 +3813,10 @@
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "9:00 AM - 8:00 PM"
-        },
-        {
-          "Day": "Tomorrow",
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
-          "Day": "Friday",
+          "Day": "Tomorrow",
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
@@ -3842,13 +3838,17 @@
         {
           "Day": "Wednesday",
           "OpenHour": "9:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 9:00 PM"
         }
       ],
       "Facilities": [
         "SYS-Book regardless Pack",
+        "SYS- Express Delivery",
         "SYS- Chilled BWS Collect",
-        "SYS- BWS Collect",
-        "SYS- Express Delivery"
+        "SYS- BWS Collect"
       ],
       "Extra10": "57700627",
       "Extra11": null,
@@ -3884,14 +3884,10 @@
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "9:00 AM - 8:00 PM"
-        },
-        {
-          "Day": "Tomorrow",
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
-          "Day": "Friday",
+          "Day": "Tomorrow",
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
@@ -3913,12 +3909,16 @@
         {
           "Day": "Wednesday",
           "OpenHour": "9:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 9:00 PM"
         }
       ],
       "Facilities": [
-        "SYS- BWS Collect",
         "SYS-Book regardless Pack",
-        "SYS- Chilled BWS Collect"
+        "SYS- Chilled BWS Collect",
+        "SYS- BWS Collect"
       ],
       "Extra10": "57700562",
       "Extra11": null,
@@ -3958,10 +3958,6 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 8:00 PM"
-        },
-        {
-          "Day": "Friday",
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
@@ -3983,13 +3979,17 @@
         {
           "Day": "Wednesday",
           "OpenHour": "9:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 8:00 PM"
         }
       ],
       "Facilities": [
         "In Shopping Centre",
         "SYS- Chilled BWS Collect",
-        "SYS-Book regardless Pack",
         "SYS- BWS Collect",
+        "SYS-Book regardless Pack",
         "SYS- Express Delivery"
       ],
       "Extra10": "57701364",
@@ -4026,14 +4026,10 @@
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "9:00 AM - 8:00 PM"
-        },
-        {
-          "Day": "Tomorrow",
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
-          "Day": "Friday",
+          "Day": "Tomorrow",
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
@@ -4055,13 +4051,17 @@
         {
           "Day": "Wednesday",
           "OpenHour": "9:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 9:00 PM"
         }
       ],
       "Facilities": [
-        "SYS- Express Delivery",
-        "SYS- Chilled BWS Collect",
         "SYS-Book regardless Pack",
-        "SYS- BWS Collect"
+        "SYS- Express Delivery",
+        "SYS- BWS Collect",
+        "SYS- Chilled BWS Collect"
       ],
       "Extra10": "57701021",
       "Extra11": null,
@@ -4097,14 +4097,10 @@
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "9:00 AM - 8:00 PM"
-        },
-        {
-          "Day": "Tomorrow",
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
-          "Day": "Friday",
+          "Day": "Tomorrow",
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
@@ -4126,13 +4122,17 @@
         {
           "Day": "Wednesday",
           "OpenHour": "9:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 9:00 PM"
         }
       ],
       "Facilities": [
-        "SYS-Book regardless Pack",
+        "SYS- Chilled BWS Collect",
         "SYS- Express Delivery",
-        "SYS- BWS Collect",
-        "SYS- Chilled BWS Collect"
+        "SYS-Book regardless Pack",
+        "SYS- BWS Collect"
       ],
       "Extra10": "57701495",
       "Extra11": null,
@@ -4168,14 +4168,10 @@
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "9:00 AM - 8:00 PM"
-        },
-        {
-          "Day": "Tomorrow",
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
-          "Day": "Friday",
+          "Day": "Tomorrow",
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
@@ -4197,11 +4193,15 @@
         {
           "Day": "Wednesday",
           "OpenHour": "9:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 9:00 PM"
         }
       ],
       "Facilities": [
-        "SYS- Chilled BWS Collect",
         "SYS- BWS Collect",
+        "SYS- Chilled BWS Collect",
         "SYS-Book regardless Pack",
         "SYS- Express Delivery"
       ],
@@ -4246,10 +4246,6 @@
           "OpenHour": "9:00 AM - 8:00 PM"
         },
         {
-          "Day": "Friday",
-          "OpenHour": "9:00 AM - 8:00 PM"
-        },
-        {
           "Day": "Saturday",
           "OpenHour": "8:30 AM - 8:00 PM"
         },
@@ -4268,12 +4264,16 @@
         {
           "Day": "Wednesday",
           "OpenHour": "9:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 8:00 PM"
         }
       ],
       "Facilities": [
         "SYS- Chilled BWS Collect",
-        "SYS-Book regardless Pack",
         "SYS- Express Delivery",
+        "SYS-Book regardless Pack",
         "SYS- BWS Collect"
       ],
       "Extra10": "57700978",
@@ -4310,14 +4310,10 @@
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "9:00 AM - 8:00 PM"
-        },
-        {
-          "Day": "Tomorrow",
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
-          "Day": "Friday",
+          "Day": "Tomorrow",
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
@@ -4339,11 +4335,15 @@
         {
           "Day": "Wednesday",
           "OpenHour": "9:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 9:00 PM"
         }
       ],
       "Facilities": [
-        "SYS- Chilled BWS Collect",
-        "SYS- BWS Collect"
+        "SYS- BWS Collect",
+        "SYS- Chilled BWS Collect"
       ],
       "Extra10": "57701233",
       "Extra11": null,
@@ -4379,14 +4379,10 @@
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "9:00 AM - 8:00 PM"
-        },
-        {
-          "Day": "Tomorrow",
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
-          "Day": "Friday",
+          "Day": "Tomorrow",
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
@@ -4408,13 +4404,17 @@
         {
           "Day": "Wednesday",
           "OpenHour": "9:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 9:00 PM"
         }
       ],
       "Facilities": [
-        "SYS- Chilled BWS Collect",
         "SYS-Book regardless Pack",
-        "SYS- Express Delivery",
-        "SYS- BWS Collect"
+        "SYS- BWS Collect",
+        "SYS- Chilled BWS Collect",
+        "SYS- Express Delivery"
       ],
       "Extra10": "57700041",
       "Extra11": null,
@@ -4450,14 +4450,10 @@
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "10:00 AM - 8:00 PM"
-        },
-        {
-          "Day": "Tomorrow",
           "OpenHour": "10:00 AM - 9:00 PM"
         },
         {
-          "Day": "Friday",
+          "Day": "Tomorrow",
           "OpenHour": "10:00 AM - 9:00 PM"
         },
         {
@@ -4479,13 +4475,17 @@
         {
           "Day": "Wednesday",
           "OpenHour": "10:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "10:00 AM - 9:00 PM"
         }
       ],
       "Facilities": [
         "SYS- Chilled BWS Collect",
-        "SYS- BWS Collect",
         "SYS-Book regardless Pack",
-        "SYS- Express Delivery"
+        "SYS- Express Delivery",
+        "SYS- BWS Collect"
       ],
       "Extra10": "57700211",
       "Extra11": null,
@@ -4521,14 +4521,10 @@
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "9:00 AM - 8:00 PM"
-        },
-        {
-          "Day": "Tomorrow",
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
-          "Day": "Friday",
+          "Day": "Tomorrow",
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
@@ -4550,6 +4546,10 @@
         {
           "Day": "Wednesday",
           "OpenHour": "9:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 9:00 PM"
         }
       ],
       "Facilities": [
@@ -4591,14 +4591,10 @@
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "9:00 AM - 8:00 PM"
-        },
-        {
-          "Day": "Tomorrow",
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
-          "Day": "Friday",
+          "Day": "Tomorrow",
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
@@ -4620,13 +4616,17 @@
         {
           "Day": "Wednesday",
           "OpenHour": "9:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 9:00 PM"
         }
       ],
       "Facilities": [
+        "SYS-Book regardless Pack",
         "SYS- Chilled BWS Collect",
-        "SYS- BWS Collect",
         "SYS- Express Delivery",
-        "SYS-Book regardless Pack"
+        "SYS- BWS Collect"
       ],
       "Extra10": "57700936",
       "Extra11": null,
@@ -4662,14 +4662,10 @@
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "9:00 AM - 8:00 PM"
-        },
-        {
-          "Day": "Tomorrow",
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
-          "Day": "Friday",
+          "Day": "Tomorrow",
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
@@ -4691,13 +4687,17 @@
         {
           "Day": "Wednesday",
           "OpenHour": "9:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 9:00 PM"
         }
       ],
       "Facilities": [
-        "SYS- Express Delivery",
         "SYS- BWS Collect",
-        "SYS- Chilled BWS Collect",
-        "SYS-Book regardless Pack"
+        "SYS-Book regardless Pack",
+        "SYS- Express Delivery",
+        "SYS- Chilled BWS Collect"
       ],
       "Extra10": "57700431",
       "Extra11": null,
@@ -4733,14 +4733,10 @@
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "9:00 AM - 8:00 PM"
-        },
-        {
-          "Day": "Tomorrow",
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
-          "Day": "Friday",
+          "Day": "Tomorrow",
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
@@ -4762,6 +4758,10 @@
         {
           "Day": "Wednesday",
           "OpenHour": "9:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 9:00 PM"
         }
       ],
       "Facilities": [
@@ -4806,10 +4806,6 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 8:00 PM"
-        },
-        {
-          "Day": "Friday",
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
@@ -4830,6 +4826,10 @@
         },
         {
           "Day": "Wednesday",
+          "OpenHour": "9:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Thursday",
           "OpenHour": "9:00 AM - 8:00 PM"
         }
       ],
@@ -4871,14 +4871,10 @@
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "9:00 AM - 8:00 PM"
-        },
-        {
-          "Day": "Tomorrow",
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
-          "Day": "Friday",
+          "Day": "Tomorrow",
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
@@ -4900,12 +4896,16 @@
         {
           "Day": "Wednesday",
           "OpenHour": "9:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 9:00 PM"
         }
       ],
       "Facilities": [
+        "SYS- BWS Collect",
         "SYS- Chilled BWS Collect",
-        "In Shopping Centre",
-        "SYS- BWS Collect"
+        "In Shopping Centre"
       ],
       "Extra10": "57700855",
       "Extra11": null,
@@ -4941,14 +4941,10 @@
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "9:00 AM - 8:00 PM"
-        },
-        {
-          "Day": "Tomorrow",
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
-          "Day": "Friday",
+          "Day": "Tomorrow",
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
@@ -4970,12 +4966,16 @@
         {
           "Day": "Wednesday",
           "OpenHour": "9:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 9:00 PM"
         }
       ],
       "Facilities": [
-        "SYS- Express Delivery",
         "SYS- BWS Collect",
-        "SYS- Chilled BWS Collect"
+        "SYS- Chilled BWS Collect",
+        "SYS- Express Delivery"
       ],
       "Extra10": "57700300",
       "Extra11": null,
@@ -5018,10 +5018,6 @@
           "OpenHour": "8:00 AM - 9:00 PM"
         },
         {
-          "Day": "Friday",
-          "OpenHour": "8:00 AM - 9:00 PM"
-        },
-        {
           "Day": "Saturday",
           "OpenHour": "8:00 AM - 9:00 PM"
         },
@@ -5040,14 +5036,18 @@
         {
           "Day": "Wednesday",
           "OpenHour": "8:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "8:00 AM - 9:00 PM"
         }
       ],
       "Facilities": [
-        "SYS- BWS Collect",
         "SYS- Chilled BWS Collect",
-        "SYS- Express Delivery",
+        "SYS- BWS Collect",
+        "In Shopping Centre",
         "SYS-Book regardless Pack",
-        "In Shopping Centre"
+        "SYS- Express Delivery"
       ],
       "Extra10": "57701314",
       "Extra11": null,
@@ -5083,14 +5083,10 @@
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "9:00 AM - 8:00 PM"
-        },
-        {
-          "Day": "Tomorrow",
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
-          "Day": "Friday",
+          "Day": "Tomorrow",
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
@@ -5112,12 +5108,16 @@
         {
           "Day": "Wednesday",
           "OpenHour": "9:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 9:00 PM"
         }
       ],
       "Facilities": [
-        "SYS- Chilled BWS Collect",
+        "SYS-Book regardless Pack",
         "SYS- BWS Collect",
-        "SYS-Book regardless Pack"
+        "SYS- Chilled BWS Collect"
       ],
       "Extra10": "57701607",
       "Extra11": null,
@@ -5157,10 +5157,6 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "10:00 AM - 9:00 PM"
-        },
-        {
-          "Day": "Friday",
           "OpenHour": "10:00 AM - 10:00 PM"
         },
         {
@@ -5182,14 +5178,18 @@
         {
           "Day": "Wednesday",
           "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "10:00 AM - 9:00 PM"
         }
       ],
       "Facilities": [
-        "SYS- Express Delivery",
-        "Drive Thru",
+        "SYS- BWS Collect",
         "SYS-Book regardless Pack",
-        "SYS- Chilled BWS Collect",
-        "SYS- BWS Collect"
+        "Drive Thru",
+        "SYS- Express Delivery",
+        "SYS- Chilled BWS Collect"
       ],
       "Extra10": "57004877",
       "Extra11": null,
@@ -5229,10 +5229,6 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:30 AM - 10:00 PM"
-        },
-        {
-          "Day": "Friday",
           "OpenHour": "9:30 AM - 11:55 PM"
         },
         {
@@ -5254,12 +5250,16 @@
         {
           "Day": "Wednesday",
           "OpenHour": "9:30 AM - 10:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:30 AM - 10:00 PM"
         }
       ],
       "Facilities": [
         "SYS- BWS Collect",
-        "Drive Thru",
-        "SYS- Chilled BWS Collect"
+        "SYS- Chilled BWS Collect",
+        "Drive Thru"
       ],
       "Extra10": "57001803",
       "Extra11": null,
@@ -5299,10 +5299,6 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "10:00 AM - 9:00 PM"
-        },
-        {
-          "Day": "Friday",
           "OpenHour": "10:00 AM - 10:00 PM"
         },
         {
@@ -5324,14 +5320,18 @@
         {
           "Day": "Wednesday",
           "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "10:00 AM - 9:00 PM"
         }
       ],
       "Facilities": [
+        "Drive Thru",
+        "SYS- Chilled BWS Collect",
         "SYS- Express Delivery",
         "SYS- BWS Collect",
-        "Drive Thru",
-        "SYS-Book regardless Pack",
-        "SYS- Chilled BWS Collect"
+        "SYS-Book regardless Pack"
       ],
       "Extra10": "57005734",
       "Extra11": null,
@@ -5374,10 +5374,6 @@
           "OpenHour": "12:00 PM - 11:55 PM"
         },
         {
-          "Day": "Friday",
-          "OpenHour": "12:00 PM - 11:55 PM"
-        },
-        {
           "Day": "Saturday",
           "OpenHour": "12:00 PM - 11:55 PM"
         },
@@ -5396,13 +5392,17 @@
         {
           "Day": "Wednesday",
           "OpenHour": "12:00 PM - 11:55 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "12:00 PM - 11:55 PM"
         }
       ],
       "Facilities": [
         "SYS- Express Delivery",
         "SYS- BWS Collect",
-        "SYS- Chilled BWS Collect",
-        "SYS-Book regardless Pack"
+        "SYS-Book regardless Pack",
+        "SYS- Chilled BWS Collect"
       ],
       "Extra10": "57005904",
       "Extra11": null,
@@ -5445,10 +5445,6 @@
           "OpenHour": "10:00 AM - 10:00 PM"
         },
         {
-          "Day": "Friday",
-          "OpenHour": "10:00 AM - 10:00 PM"
-        },
-        {
           "Day": "Saturday",
           "OpenHour": "10:00 AM - 10:00 PM"
         },
@@ -5467,14 +5463,18 @@
         {
           "Day": "Wednesday",
           "OpenHour": "10:00 AM - 10:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "10:00 AM - 10:00 PM"
         }
       ],
       "Facilities": [
-        "SYS- Chilled BWS Collect",
-        "SYS- Express Delivery",
         "SYS-Book regardless Pack",
+        "SYS- Express Delivery",
+        "SYS- BWS Collect",
         "Drive Thru",
-        "SYS- BWS Collect"
+        "SYS- Chilled BWS Collect"
       ],
       "Extra10": "57001112",
       "Extra11": null,
@@ -5514,10 +5514,6 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "10:00 AM - 9:00 PM"
-        },
-        {
-          "Day": "Friday",
           "OpenHour": "10:00 AM - 10:00 PM"
         },
         {
@@ -5539,13 +5535,17 @@
         {
           "Day": "Wednesday",
           "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "10:00 AM - 9:00 PM"
         }
       ],
       "Facilities": [
-        "SYS- Express Delivery",
-        "SYS- Chilled BWS Collect",
+        "SYS-Book regardless Pack",
         "SYS- BWS Collect",
-        "SYS-Book regardless Pack"
+        "SYS- Express Delivery",
+        "SYS- Chilled BWS Collect"
       ],
       "Extra10": "57001798",
       "Extra11": null,
@@ -5585,10 +5585,6 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "10:00 AM - 10:00 PM"
-        },
-        {
-          "Day": "Friday",
           "OpenHour": "10:00 AM - 11:55 PM"
         },
         {
@@ -5610,14 +5606,18 @@
         {
           "Day": "Wednesday",
           "OpenHour": "10:00 AM - 10:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "10:00 AM - 10:00 PM"
         }
       ],
       "Facilities": [
-        "SYS- Chilled BWS Collect",
         "Drive Thru",
-        "SYS-Book regardless Pack",
         "SYS- Express Delivery",
-        "SYS- BWS Collect"
+        "SYS- Chilled BWS Collect",
+        "SYS- BWS Collect",
+        "SYS-Book regardless Pack"
       ],
       "Extra10": "57001332",
       "Extra11": null,
@@ -5657,10 +5657,6 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "10:00 AM - 9:00 PM"
-        },
-        {
-          "Day": "Friday",
           "OpenHour": "10:00 AM - 10:00 PM"
         },
         {
@@ -5682,14 +5678,18 @@
         {
           "Day": "Wednesday",
           "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "10:00 AM - 9:00 PM"
         }
       ],
       "Facilities": [
-        "SYS- BWS Collect",
+        "SYS- Express Delivery",
         "SYS-Book regardless Pack",
-        "Drive Thru",
         "SYS- Chilled BWS Collect",
-        "SYS- Express Delivery"
+        "SYS- BWS Collect",
+        "Drive Thru"
       ],
       "Extra10": "57001609",
       "Extra11": null,
@@ -5729,10 +5729,6 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "9:00 AM - 9:00 PM"
-        },
-        {
-          "Day": "Friday",
           "OpenHour": "9:00 AM - 10:00 PM"
         },
         {
@@ -5754,11 +5750,15 @@
         {
           "Day": "Wednesday",
           "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 9:00 PM"
         }
       ],
       "Facilities": [
-        "SYS- BWS Collect",
         "Drive Thru",
+        "SYS- BWS Collect",
         "SYS- Chilled BWS Collect"
       ],
       "Extra10": "57006497",
@@ -5799,10 +5799,6 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "10:00 AM - 9:00 PM"
-        },
-        {
-          "Day": "Friday",
           "OpenHour": "10:00 AM - 10:00 PM"
         },
         {
@@ -5824,14 +5820,18 @@
         {
           "Day": "Wednesday",
           "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "10:00 AM - 9:00 PM"
         }
       ],
       "Facilities": [
-        "SYS-Book regardless Pack",
-        "SYS- Express Delivery",
-        "In Shopping Centre",
         "SYS- Chilled BWS Collect",
-        "SYS- BWS Collect"
+        "In Shopping Centre",
+        "SYS- Express Delivery",
+        "SYS- BWS Collect",
+        "SYS-Book regardless Pack"
       ],
       "Extra10": "57000205",
       "Extra11": null,
@@ -5867,14 +5867,10 @@
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "9:00 AM - 8:00 PM"
-        },
-        {
-          "Day": "Tomorrow",
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
-          "Day": "Friday",
+          "Day": "Tomorrow",
           "OpenHour": "9:00 AM - 10:00 PM"
         },
         {
@@ -5896,12 +5892,16 @@
         {
           "Day": "Wednesday",
           "OpenHour": "9:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 9:00 PM"
         }
       ],
       "Facilities": [
         "SYS- BWS Collect",
-        "SYS- Chilled BWS Collect",
-        "SYS-Book regardless Pack"
+        "SYS-Book regardless Pack",
+        "SYS- Chilled BWS Collect"
       ],
       "Extra10": "57006421",
       "Extra11": null,
@@ -5937,14 +5937,10 @@
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "10:00 AM - 10:00 PM"
-        },
-        {
-          "Day": "Tomorrow",
           "OpenHour": "10:00 AM - 11:00 PM"
         },
         {
-          "Day": "Friday",
+          "Day": "Tomorrow",
           "OpenHour": "10:00 AM - 11:00 PM"
         },
         {
@@ -5966,13 +5962,17 @@
         {
           "Day": "Wednesday",
           "OpenHour": "10:00 AM - 10:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "10:00 AM - 11:00 PM"
         }
       ],
       "Facilities": [
         "SYS- BWS Collect",
-        "SYS- Chilled BWS Collect",
-        "SYS-Book regardless Pack",
         "Drive Thru",
+        "SYS-Book regardless Pack",
+        "SYS- Chilled BWS Collect",
         "SYS- Express Delivery"
       ],
       "Extra10": "57001772",
@@ -6013,10 +6013,6 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "10:00 AM - 9:00 PM"
-        },
-        {
-          "Day": "Friday",
           "OpenHour": "10:00 AM - 10:00 PM"
         },
         {
@@ -6038,12 +6034,16 @@
         {
           "Day": "Wednesday",
           "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "10:00 AM - 9:00 PM"
         }
       ],
       "Facilities": [
-        "SYS- BWS Collect",
+        "SYS- Chilled BWS Collect",
         "SYS-Book regardless Pack",
-        "SYS- Chilled BWS Collect"
+        "SYS- BWS Collect"
       ],
       "Extra10": "57001560",
       "Extra11": null,
@@ -6083,10 +6083,6 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "10:00 AM - 9:00 PM"
-        },
-        {
-          "Day": "Friday",
           "OpenHour": "10:00 AM - 10:00 PM"
         },
         {
@@ -6108,13 +6104,17 @@
         {
           "Day": "Wednesday",
           "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "10:00 AM - 9:00 PM"
         }
       ],
       "Facilities": [
         "SYS-Book regardless Pack",
+        "SYS- Chilled BWS Collect",
         "SYS- BWS Collect",
-        "SYS- Express Delivery",
-        "SYS- Chilled BWS Collect"
+        "SYS- Express Delivery"
       ],
       "Extra10": "57001617",
       "Extra11": null,
@@ -6150,14 +6150,10 @@
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "9:00 AM - 9:00 PM"
-        },
-        {
-          "Day": "Tomorrow",
           "OpenHour": "9:00 AM - 10:00 PM"
         },
         {
-          "Day": "Friday",
+          "Day": "Tomorrow",
           "OpenHour": "9:00 AM - 10:59 PM"
         },
         {
@@ -6179,6 +6175,10 @@
         {
           "Day": "Wednesday",
           "OpenHour": "9:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 10:00 PM"
         }
       ],
       "Facilities": [
@@ -6219,14 +6219,10 @@
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "10:00 AM - 10:00 PM"
-        },
-        {
-          "Day": "Tomorrow",
           "OpenHour": "10:00 AM - 11:00 PM"
         },
         {
-          "Day": "Friday",
+          "Day": "Tomorrow",
           "OpenHour": "10:00 AM - 11:55 PM"
         },
         {
@@ -6248,14 +6244,18 @@
         {
           "Day": "Wednesday",
           "OpenHour": "10:00 AM - 10:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "10:00 AM - 11:00 PM"
         }
       ],
       "Facilities": [
-        "SYS- BWS Collect",
-        "SYS- Express Delivery",
-        "SYS- Chilled BWS Collect",
         "Drive Thru",
-        "SYS-Book regardless Pack"
+        "SYS- Chilled BWS Collect",
+        "SYS- Express Delivery",
+        "SYS-Book regardless Pack",
+        "SYS- BWS Collect"
       ],
       "Extra10": "57004526",
       "Extra11": null,
@@ -6298,10 +6298,6 @@
           "OpenHour": "10:00 AM - 10:00 PM"
         },
         {
-          "Day": "Friday",
-          "OpenHour": "10:00 AM - 10:00 PM"
-        },
-        {
           "Day": "Saturday",
           "OpenHour": "10:00 AM - 10:00 PM"
         },
@@ -6320,14 +6316,18 @@
         {
           "Day": "Wednesday",
           "OpenHour": "10:00 AM - 10:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "10:00 AM - 10:00 PM"
         }
       ],
       "Facilities": [
+        "SYS-Book regardless Pack",
         "Drive Thru",
-        "SYS- Express Delivery",
         "SYS- Chilled BWS Collect",
-        "SYS- BWS Collect",
-        "SYS-Book regardless Pack"
+        "SYS- Express Delivery",
+        "SYS- BWS Collect"
       ],
       "Extra10": "57003758",
       "Extra11": null,
@@ -6363,14 +6363,10 @@
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "10:00 AM - 10:00 PM"
-        },
-        {
-          "Day": "Tomorrow",
           "OpenHour": "10:00 AM - 11:00 PM"
         },
         {
-          "Day": "Friday",
+          "Day": "Tomorrow",
           "OpenHour": "10:00 AM - 11:00 PM"
         },
         {
@@ -6392,13 +6388,17 @@
         {
           "Day": "Wednesday",
           "OpenHour": "10:00 AM - 10:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "10:00 AM - 11:00 PM"
         }
       ],
       "Facilities": [
-        "SYS- Express Delivery",
+        "SYS-Book regardless Pack",
         "SYS- Chilled BWS Collect",
-        "SYS- BWS Collect",
-        "SYS-Book regardless Pack"
+        "SYS- Express Delivery",
+        "SYS- BWS Collect"
       ],
       "Extra10": "57002142",
       "Extra11": null,
@@ -6438,10 +6438,6 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "10:00 AM - 9:00 PM"
-        },
-        {
-          "Day": "Friday",
           "OpenHour": "10:00 AM - 10:00 PM"
         },
         {
@@ -6463,13 +6459,17 @@
         {
           "Day": "Wednesday",
           "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "10:00 AM - 9:00 PM"
         }
       ],
       "Facilities": [
         "Drive Thru",
-        "SYS- Express Delivery",
         "SYS- BWS Collect",
         "SYS- Chilled BWS Collect",
+        "SYS- Express Delivery",
         "SYS-Book regardless Pack"
       ],
       "Extra10": "57003287",
@@ -6510,10 +6510,6 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "10:00 AM - 10:00 PM"
-        },
-        {
-          "Day": "Friday",
           "OpenHour": "10:00 AM - 11:00 PM"
         },
         {
@@ -6535,14 +6531,18 @@
         {
           "Day": "Wednesday",
           "OpenHour": "10:00 AM - 10:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "10:00 AM - 10:00 PM"
         }
       ],
       "Facilities": [
         "SYS- Chilled BWS Collect",
-        "Drive Thru",
+        "SYS- BWS Collect",
         "SYS-Book regardless Pack",
-        "SYS- Express Delivery",
-        "SYS- BWS Collect"
+        "Drive Thru",
+        "SYS- Express Delivery"
       ],
       "Extra10": "57003504",
       "Extra11": null,
@@ -6585,10 +6585,6 @@
           "OpenHour": "10:00 AM - 10:00 PM"
         },
         {
-          "Day": "Friday",
-          "OpenHour": "10:00 AM - 10:00 PM"
-        },
-        {
           "Day": "Saturday",
           "OpenHour": "10:00 AM - 10:00 PM"
         },
@@ -6607,12 +6603,16 @@
         {
           "Day": "Wednesday",
           "OpenHour": "10:00 AM - 10:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "10:00 AM - 10:00 PM"
         }
       ],
       "Facilities": [
-        "SYS- Chilled BWS Collect",
-        "SYS- Express Delivery",
         "SYS- BWS Collect",
+        "SYS- Express Delivery",
+        "SYS- Chilled BWS Collect",
         "SYS-Book regardless Pack"
       ],
       "Extra10": "57002710",
@@ -6649,14 +6649,10 @@
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "9:00 AM - 8:00 PM"
-        },
-        {
-          "Day": "Tomorrow",
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
-          "Day": "Friday",
+          "Day": "Tomorrow",
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
@@ -6678,13 +6674,17 @@
         {
           "Day": "Wednesday",
           "OpenHour": "9:00 AM - 8:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 9:00 PM"
         }
       ],
       "Facilities": [
-        "SYS- BWS Collect",
         "SYS-Book regardless Pack",
         "SYS- Chilled BWS Collect",
-        "SYS- Express Delivery"
+        "SYS- Express Delivery",
+        "SYS- BWS Collect"
       ],
       "Extra10": "57701615",
       "Extra11": null,
@@ -6727,10 +6727,6 @@
           "OpenHour": "10:00 AM - 10:00 PM"
         },
         {
-          "Day": "Friday",
-          "OpenHour": "10:00 AM - 10:00 PM"
-        },
-        {
           "Day": "Saturday",
           "OpenHour": "10:00 AM - 10:00 PM"
         },
@@ -6749,13 +6745,17 @@
         {
           "Day": "Wednesday",
           "OpenHour": "10:00 AM - 10:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "10:00 AM - 10:00 PM"
         }
       ],
       "Facilities": [
+        "SYS-Book regardless Pack",
         "SYS- BWS Collect",
         "SYS- Express Delivery",
-        "SYS- Chilled BWS Collect",
-        "SYS-Book regardless Pack"
+        "SYS- Chilled BWS Collect"
       ],
       "Extra10": "57006560",
       "Extra11": null,
@@ -6791,14 +6791,10 @@
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "9:00 AM - 7:00 PM"
-        },
-        {
-          "Day": "Tomorrow",
           "OpenHour": "9:00 AM - 9:00 PM"
         },
         {
-          "Day": "Friday",
+          "Day": "Tomorrow",
           "OpenHour": "9:00 AM - 8:00 PM"
         },
         {
@@ -6820,6 +6816,10 @@
         {
           "Day": "Wednesday",
           "OpenHour": "9:00 AM - 7:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 9:00 PM"
         }
       ],
       "Facilities": [
@@ -6864,10 +6864,6 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "10:00 AM - 10:00 PM"
-        },
-        {
-          "Day": "Friday",
           "OpenHour": "10:00 AM - 11:00 PM"
         },
         {
@@ -6889,13 +6885,17 @@
         {
           "Day": "Wednesday",
           "OpenHour": "10:00 AM - 10:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "10:00 AM - 10:00 PM"
         }
       ],
       "Facilities": [
-        "SYS-Book regardless Pack",
+        "SYS- Chilled BWS Collect",
         "SYS- BWS Collect",
         "SYS- Express Delivery",
-        "SYS- Chilled BWS Collect"
+        "SYS-Book regardless Pack"
       ],
       "Extra10": "57006536",
       "Extra11": null,
@@ -6931,14 +6931,10 @@
       "TradingHours": [
         {
           "Day": "Today",
-          "OpenHour": "10:00 AM - 10:00 PM"
-        },
-        {
-          "Day": "Tomorrow",
           "OpenHour": "9:00 AM - 11:00 PM"
         },
         {
-          "Day": "Friday",
+          "Day": "Tomorrow",
           "OpenHour": "9:00 AM - 11:00 PM"
         },
         {
@@ -6960,12 +6956,16 @@
         {
           "Day": "Wednesday",
           "OpenHour": "10:00 AM - 10:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "9:00 AM - 11:00 PM"
         }
       ],
       "Facilities": [
+        "In Shopping Centre",
         "SYS- Chilled BWS Collect",
         "SYS- BWS Collect",
-        "In Shopping Centre",
         "SYS- Express Delivery",
         "SYS-Book regardless Pack"
       ],
@@ -7007,10 +7007,6 @@
         },
         {
           "Day": "Tomorrow",
-          "OpenHour": "10:00 AM - 9:00 PM"
-        },
-        {
-          "Day": "Friday",
           "OpenHour": "10:00 AM - 10:00 PM"
         },
         {
@@ -7032,14 +7028,18 @@
         {
           "Day": "Wednesday",
           "OpenHour": "10:00 AM - 9:00 PM"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "10:00 AM - 9:00 PM"
         }
       ],
       "Facilities": [
-        "SYS-Book regardless Pack",
-        "SYS- BWS Collect",
-        "Drive Thru",
         "SYS- Chilled BWS Collect",
-        "SYS- Express Delivery"
+        "Drive Thru",
+        "SYS- BWS Collect",
+        "SYS- Express Delivery",
+        "SYS-Book regardless Pack"
       ],
       "Extra10": "57006578",
       "Extra11": null,
