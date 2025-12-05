@@ -1,9 +1,20 @@
 #!/bin/bash
-./download.sh 'https://api.bws.com.au/apis/ui/StoreLocator/Stores/bws?state=VIC&type=allstores&Max=999999'
-./download.sh 'https://api.bws.com.au/apis/ui/StoreLocator/Stores/bws?state=ACT&type=allstores&Max=999999'
-./download.sh 'https://api.bws.com.au/apis/ui/StoreLocator/Stores/bws?state=QLD&type=allstores&Max=999999'
-./download.sh 'https://api.bws.com.au/apis/ui/StoreLocator/Stores/bws?state=TAS&type=allstores&Max=999999'
-./download.sh 'https://api.bws.com.au/apis/ui/StoreLocator/Stores/bws?state=WA&type=allstores&Max=999999'
-./download.sh 'https://api.bws.com.au/apis/ui/StoreLocator/Stores/bws?state=NSW&type=allstores&Max=999999'
-./download.sh 'https://api.bws.com.au/apis/ui/StoreLocator/Stores/bws?state=SA&type=allstores&Max=999999'
-./download.sh 'https://api.bws.com.au/apis/ui/StoreLocator/Stores/bws?state=NT&type=allstores&Max=999999'
+set -e
+
+TEMP_DIR=$(mktemp -d)
+STATES=("VIC" "ACT" "QLD" "TAS" "WA" "NSW" "SA" "NT")
+
+# Download each state
+for state in "${STATES[@]}"; do
+  echo "Downloading ${state}..."
+  curl -s "https://api.bws.com.au/apis/ui/StoreLocator/Stores/bws?state=${state}&type=allstores&Max=999999" \
+    -o "${TEMP_DIR}/${state}.json"
+done
+
+# Merge all Stores arrays and sort by StoreNo (as number)
+jq -s '{ Stores: [.[].Stores[]] | sort_by(.StoreNo | tonumber) }' "${TEMP_DIR}"/*.json > stores.json
+
+# Clean up
+rm -rf "$TEMP_DIR"
+
+echo "Created stores.json with $(jq '.Stores | length' stores.json) stores"
